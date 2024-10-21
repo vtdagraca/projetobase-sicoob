@@ -1,8 +1,3 @@
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 import os
 import time
 import pdfplumber
@@ -10,129 +5,123 @@ import pandas as pd
 import glob
 import pytesseract
 from PIL import Image
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from groq import Groq
 
-# Solicita a URL ao usuário antes de iniciar o WebDriver
-url = input("Digite o site para extração: ")
+# Configuração da API da Groq
+client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
 
-# Confs iniciais
-driver_path = 'drivers/chromedriver.exe'  # Caminho para o seu WebDriver
-pdf_dir = 'pdfs/'  # Pasta onde os PDFs serão salvos
-output_dir = 'output/'  # Pasta para salvar o arquivo CSV
-
-# Configurações de Download para o Chrome
-chrome_options = webdriver.ChromeOptions()
-prefs = {
-    "download.default_directory": os.path.abspath(pdf_dir),  # Define a pasta de download
-    "download.prompt_for_download": False,                    # Desativa a solicitação de download
-    "plugins.always_open_pdf_externally": True               # Baixa PDFs em vez de abri-los
-}
-chrome_options.add_experimental_option("prefs", prefs)
-
-# Configura o WebDriver usando o Service e as Opções
-service = Service(driver_path)
-driver = webdriver.Chrome(service=service, options=chrome_options)
-
-# Acessa a URL fornecida
-driver.get(url)
-
-# Espera até que todos os links para arquivos PDF estejam presentes na página
-try:
-    pdf_links = WebDriverWait(driver, 10).until(
-        EC.presence_of_all_elements_located((By.XPATH, "//a[contains(@href, '.pdf')]"))
+# Função para perguntas e respostas usando a API da Groq
+def question_answer_groq(question, context):
+    messages = [
+        {"role": "system", "content": "Você é um assistente de IA didático e objetivo."},
+        {"role": "user", "content": question},
+        {"role": "assistant", "content": context}
+    ]
+    chat_completion = client.chat.completions.create(
+        messages=messages,
+        model="llama3-8b-8192",
+        temperature=0.5,
+        max_tokens=500
     )
-except Exception as e:
-    print(f"Erro ao carregar os links PDF: {e}")
-    driver.quit()
+    return chat_completion.choices[0].message.content
 
-# Cria a pasta para armazenar PDFs, se ela não existir
-os.makedirs(pdf_dir, exist_ok=True)
+# Configurações iniciais
+driver_path = 'drivers/chromedriver.exe'  # Caminho para o WebDriver
+pdf_dir = 'pdfs/'  # Pasta para salvar os PDFs baixados
+output_dir = 'output/'  # Pasta para salvar o arquivo CSV de extração
 
-# baixa cada PDF encontrado
-for link in pdf_links:
+# Função para baixar os PDFs do site
+def baixar_pdfs(url):
+    chrome_options = webdriver.ChromeOptions()
+    prefs = {
+        "download.default_directory": os.path.abspath(pdf_dir),
+        "download.prompt_for_download": False,
+        "plugins.always_open_pdf_externally": True
+    }
+    chrome_options.add_experimental_option("prefs", prefs)
+    service = Service(driver_path)
+    driver = webdriver.Chrome(service=service, options=chrome_options)
+    driver.get(url)
+
     try:
-        pdf_url = link.get_attribute('href')
-        if pdf_url:
-            driver.get(pdf_url)
-            time.sleep(10)  # Ajuste conforme necessário para aguardar o download do PDF
+        pdf_links = WebDriverWait(driver, 10).until(
+            EC.presence_of_all_elements_located((By.XPATH, "//a[contains(@href, '.pdf')]"))
+        )
+        for link in pdf_links:
+            pdf_url = link.get_attribute('href')
+            if pdf_url:
+                driver.get(pdf_url)
+                time.sleep(5)
     except Exception as e:
-        print(f"Erro ao acessar o link de PDF: {e}")
+        print(f"Erro ao carregar os links PDF: {e}")
+    finally:
+        driver.quit()
 
-# Fecha o navegador após o download
-driver.quit()
-
-print("Carregando, aguarde...")
-# Espera o download de todos os arquivos por um tempo adicional
-time.sleep(30)
-
-# Verifica se há arquivos PDF baixados
-pdf_files = glob.glob(os.path.join(pdf_dir, '*.pdf'))
-
-if not pdf_files:
-    print("Nenhum PDF foi baixado. Verifique o site e o processo de download.")
-else:
-    print(f"{len(pdf_files)} PDFs foram baixados com sucesso.")
-
-    # Processa os PDFs baixados
+# Função para extrair texto dos PDFs baixados e salvar em um CSV
+def extrair_texto_dos_pdfs_para_csv():
+    pdf_files = glob.glob(os.path.join(pdf_dir, '*.pdf'))
     extracted_data = []
 
-    # Itera sobre cada PDF para extração de texto com OCR, quando necessário
+    if not pdf_files:
+        print("Nenhum PDF foi baixado. Verifique o site e o processo de download.")
+        return None
+
     for pdf_file in pdf_files:
         try:
             with pdfplumber.open(pdf_file) as pdf:
+                pdf_name = os.path.basename(pdf_file)
                 for page_number, page in enumerate(pdf.pages, start=1):
                     text = page.extract_text()
                     if not text:
-                        # Tenta extrair a imagem da página e aplicar OCR
                         image = page.to_image()
                         pil_image = image.original.convert("RGB")
                         text = pytesseract.image_to_string(pil_image)
-                       
                     if text:
                         extracted_data.append({
-                            "Nome do Arquivo": os.path.basename(pdf_file),
+                            "Nome do Arquivo": pdf_name,
                             "Página": page_number,
                             "Conteúdo": text
                         })
-                    else:
-                        print(f"Texto não encontrado na página {page_number} do arquivo {pdf_file}.")
         except Exception as e:
             print(f"Erro ao processar o arquivo {pdf_file}: {e}")
 
-    # Cria o diretório de saída para o CSV, se não existir
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
-    # Exporta os dados extraídos para um arquivo CSV
-    if extracted_data:
-        # Converte a lista de dados extraídos em DataFrame
-        df = pd.DataFrame(extracted_data)
+    output_file_path = os.path.join(output_dir, 'relatorio_extraido.csv')
+    df = pd.DataFrame(extracted_data)
+    df.to_csv(output_file_path, index=False, encoding='utf-8-sig')
+    print(f"Processo completo! Relatório salvo em {output_file_path}")
+    return output_file_path
 
-        # Salva o DataFrame em um arquivo CSV
-        output_file_path = os.path.join(output_dir, 'relatorio_extraido.csv')
-        df.to_csv(output_file_path, index=False, encoding='utf-8-sig')
-        print(f"Processo completo! Relatório salvo em {output_file_path}")
-    else:
-        print("Nenhum texto foi extraído dos PDFs. Verifique o conteúdo dos arquivos. :(")
+# Função para carregar o conteúdo do CSV e permitir perguntas
+def carregar_e_perguntar_sobre_csv(csv_path):
+    df = pd.read_csv(csv_path)
+    
+    # Concatena todo o conteúdo para criar um contexto completo
+    contexto = " ".join(df["Conteúdo"].tolist())
 
-print("Extração finalizada! :)")
+    # Função interativa para realizar perguntas
+    while True:
+        pergunta = input("Digite a pergunta que você deseja fazer sobre o conteúdo ou 'sair' para terminar: ")
+        if pergunta.lower() == 'sair':
+            print("Encerrando o programa.")
+            break
 
-# Função para buscar o nome do arquivo PDF
-pdf_name = input("Buscar PDF: ")
+        # Envia a pergunta à API Groq com o contexto do CSV
+        resposta = question_answer_groq(pergunta, contexto)
+        print("Resposta:", resposta)
 
-# Verifica se o arquivo existe na pasta de PDFs baixados
-pdf_path = os.path.join(pdf_dir, pdf_name)
-if not os.path.exists(pdf_path):
-    print("Arquivo não encontrado. Verifique o nome e tente novamente.")
+# Execução do processo
+url = input("Digite o site para extração: ")
+baixar_pdfs(url)  # Baixa os PDFs do site
+csv_path = extrair_texto_dos_pdfs_para_csv()  # Extrai texto e salva em CSV
+if csv_path:
+    carregar_e_perguntar_sobre_csv(csv_path)  # Carrega o CSV e inicia o sistema de perguntas e respostas
 else:
-    # Abre o PDF e exibe o conteúdo de cada página
-    with pdfplumber.open(pdf_path) as pdf:
-        for page_number, page in enumerate(pdf.pages, start=1):
-            text = page.extract_text()
-            if not text:
-                # Extrai o texto usando OCR se não houver texto na página
-                image = page.to_image()
-                pil_image = image.original.convert("RGB")
-                text = pytesseract.image_to_string(pil_image)
-            
-            # Exibe o número da página e o texto extraído
-            print(f"\nPágina {page_number}:\n{text}\n{'-'*40}")
+    print("Nenhum conteúdo foi extraído para realizar perguntas.")

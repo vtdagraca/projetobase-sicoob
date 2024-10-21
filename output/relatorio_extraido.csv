@@ -422,6 +422,852 @@ iniciado
 13"
 governanca-privacidade (1).pdf,14,"PROGRAMA DE GOVERNANÇA EM PRIVACIDADE DA ANP | SGE – ANP | 2021
 14"
+governanca-privacidade (2).pdf,1,"PROGRAMA DE GOVERNANÇA EM PRIVACIDADE DA ANP | SGE – ANP | 2021
+PROGRAMA DE
+GOVERNANÇA EM
+PRIVACIDADE
+Superintendência de Governança e Estratégia
+1"
+governanca-privacidade (2).pdf,2,"PROGRAMA DE GOVERNANÇA EM PRIVACIDADE DA ANP | SGE – ANP | 2021
+PROGRAMA DE
+GOVERNANÇA EM
+PRIVACIDADE
+Superintendência de Governança e Estratégia
+2"
+governanca-privacidade (2).pdf,3,"PROGRAMA DE GOVERNANÇA EM PRIVACIDADE DA ANP | SGE – ANP | 2021
+Agência Nacional do Petróleo, Gás Natural e Biocombustíveis
+Julho, 2021
+Diretor-Geral
+Rodolfo Henrique de Saboia
+Diretores
+Symone Christine de Santana Araújo
+José Cesário Cecchi
+Dirceu Cardoso Amorelli Junior
+Raphael Neves Moura (Diretor Substituto)
+Superintendência de Governança e Estratégia
+José Gutman – Superintendente de Governança e Estratégia
+Sergio Alonso Trigo – Superintendente Adjunto de Governança e Estratégia
+Elaboração
+Raphael Borges Rodrigues – Coordenador de Governança
+Andréa da Silva Fonseca – Assessora de Superintendência
+André Moreira Nascimento – Especialista em Regulação
+Aline Pereira dos Santos – Estagiária na Coordenação de Governança
+3"
+governanca-privacidade (2).pdf,4,"PROGRAMA DE GOVERNANÇA EM PRIVACIDADE DA ANP | SGE – ANP | 2021
+1. INTRODUÇÃO À LEI GERAL DE PROTEÇÃO DE DADOS PESSOAIS – LGPD
+Inspirada na norma europeia da Proteção de Dados (GDPR – General Data Protection Regulation), a Lei nº 13.709, de 14 de
+agosto de 2018, Lei Geral de Proteção de Dados Pessoais (LGPD), foi promulgada com o objetivo de regular as atividades de
+“tratamento de dados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público ou
+privado, com o objetivo de proteger os direitos fundamentais de liberdade e de privacidade e o livre desenvolvimento da
+personalidade da pessoa natural” (art. 1º).
+A LGPD versa, portanto, apenas sobre o tratamento de dados pessoais, não atingindo dados de pessoas jurídicas, documentos
+sigilosos ou confidenciais, segredos de negócios, fórmulas, patentes, entre outros documentos ou informações que não sejam
+relacionados à pessoa natural identificada ou identificável, uma vez que tais tipos de informação ou documento encontram
+tutela em outros diplomas legais. Não obstante, ainda que tais documentos e informações não sejam objeto da LGPD, os
+dados pessoais neles contidos estarão protegidos por ela. Nesse sentido, a análise de aplicabilidade da LGPD deverá se
+aprofundar no mapeamento e inventário de dados pessoais estruturados ou não estruturados.
+Importante salientar que a LGPD se aplica a qualquer operação de tratamento realizada por pessoa natural ou por pessoa
+jurídica de direito público ou privado, independentemente do meio, do país de sua sede ou do país onde estejam localizados
+os dados, conforme o disposto em seu art. 3º.
+No que tange à sua aplicação pelo poder público, a LGPD estabelece, em seu art. 23, que o tratamento “deverá ser realizado
+para o atendimento de sua finalidade pública, na persecução do interesse público, com o objetivo de executar as competências
+legais ou cumprir as atribuições legais do serviço público”, “com informações claras e atualizadas sobre a previsão legal, a
+finalidade, os procedimentos e as práticas utilizadas para execução dessas atividades, em veículos de fácil acesso”.
+A LGPD classifica como dado pessoal a informação relacionada à pessoa natural identificada ou identificável (ex: nome, RG,
+CPF, e-mail, IP, placa de automóvel, entre outros) e dado pessoal sensível como aquele relacionado sobre origem racial ou
+étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, dado
+referente à saúde ou à vida sexual, dado genético ou biométrico, quando vinculado a uma pessoa natural, isto é, em linhas
+gerais, são os dados pessoais que possam trazer algum tipo de discriminação quanto ao seu tratamento (art. 5º, I e II).
+Basicamente, a LGPD busca a proteção de direitos e garantias fundamentais da pessoa natural, mediante a harmonização e a
+atualização de conceitos de modo a mitigar riscos e estabelecer regras bem definidas sobre o tratamento de dados pessoais.
+1.1. Conceitos
+Autoridade Nacional de Proteção de Dados - ANPD: órgão da administração pública responsável por zelar, implementar e
+fiscalizar o cumprimento desta Lei em todo o território nacional.
+Controlador: pessoa natural ou jurídica, de direito público ou privado, a quem competem as decisões referentes ao tratamento
+de dados pessoais.
+Dado Pessoal: informação relacionada a pessoa natural identificada ou identificável.
+Dado Pessoal Sensível: dado pessoal sobre origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou
+a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico,
+quando vinculado a uma pessoa natural.
+Encarregado: pessoa natural indicada pelo controlador e operador para atuar como canal de comunicação entre o controlador,
+os titulares dos dados e a Autoridade Nacional de Proteção de Dados.
+Operador: pessoa natural ou jurídica, de direito público ou privado, que realiza o tratamento de dados pessoais em nome do
+controlador.
+Titular: qualquer pessoa natural, protegida pelo princípio da autodeterminação informativa.
+4"
+governanca-privacidade (2).pdf,5,"PROGRAMA DE GOVERNANÇA EM PRIVACIDADE DA ANP | SGE – ANP | 2021
+1.2. Tratamento de Dados
+• mediante o fornecimento de consentimento pelo titular;
+• para o cumprimento de obrigação legal ou regulatória pelo controlador;
+• pela administração pública, para o tratamento e uso compartilhado de dados necessários à execução de políticas públicas
+previstas em leis e regulamentos ou respaldadas em contratos, convênios ou instrumentos congêneres, observadas as
+disposições da Lei;
+• para a realização de estudos por órgão de pesquisa, garantida, sempre que possível, a anonimização dos dados pessoais;
+• quando necessário para a execução de contrato ou de procedimentos preliminares relacionados a contrato do qual seja
+parte o titular, a pedido do titular dos dados;
+• para o exercício regular de direitos em processo judicial, administrativo ou arbitral, esse último nos termos da Lei nº 9.307,
+de 23 de setembro de 1996 (Lei de Arbitragem);
+• para a proteção da vida ou da incolumidade física do titular ou de terceiros;
+• para a tutela da saúde, em procedimento realizado por profissionais da área da saúde ou por entidades sanitárias;
+• para a tutela da saúde, exclusivamente, em procedimento realizado por profissionais de saúde, serviços de saúde ou
+autoridade sanitária;
+• quando necessário para atender aos interesses legítimos do controlador ou de terceiros, exceto no caso de prevalecerem
+direitos e liberdades fundamentais do titular que exijam a proteção dos dados pessoais; ou
+• para a proteção do crédito, inclusive quanto ao disposto na legislação pertinente.
+1.3. Direitos dos Titulares
+• Confirmação da existência de tratamento;
+• Acesso aos dados;
+• Correção de dados incompletos, inexatos ou desatualizados;
+• Anonimização, bloqueio ou eliminação de dados desnecessários, excessivos ou tratados em desconformidade com o
+disposto na Lei;
+• Portabilidade dos dados a outro fornecedor de serviço ou produto, mediante requisição expressa, observados os segredos
+comercial e industrial;
+• Eliminação dos dados pessoais tratados com o consentimento do titular, exceto nas hipóteses previstas na Lei;
+• Informação das entidades públicas e privadas com as quais o controlador realizou uso compartilhado de dados;
+• Informação sobre a possibilidade de não fornecer consentimento e sobre as consequências da negativa;
+• Revogação do consentimento, nos termos da Lei;
+• Peticionamento em relação aos seus dados contra o controlador perante a autoridade nacional.
+• Oposição a tratamento realizado com fundamento em uma das hipóteses de dispensa de consentimento, em caso de
+descumprimento ao disposto na Lei.
+1.3.1. Transparência passiva
+• acesso à informação sobre a confirmação da existência de tratamento
+• acesso aos dados coletados
+• acesso à informação sobre entidades com as quais o controlador realizou uso compartilhado de dados
+1.3.2. Peticionamento
+• correção de dados incompletos, inexatos ou desatualizados
+• anonimização, bloqueio ou eliminação de dados desnecessários, excessivos ou tratados em desconformidade com o
+disposto na LGPD
+• revisão de decisões tomadas unicamente com base em tratamento automatizado de dados pessoais que afetem seus
+interesses
+5"
+governanca-privacidade (2).pdf,6,"PROGRAMA DE GOVERNANÇA EM PRIVACIDADE DA ANP | SGE – ANP | 2021
+2. ESTRUTURA DE GOVERNANÇA DA ANP
+A governança da ANP, alinhada ao disposto no Decreto nº 9.203, de 22 de novembro de 2017, é exercida por sua Diretoria
+Colegiada e pela linha hierárquica da Agência, com o apoio de diversos comitês e comissões, tendo como norte o cumprimento
+de suas atribuições legais, o atingimento de seus objetivos estratégicos e a entrega de valor para a sociedade.
+A estrutura é composta por instâncias internas e externas de governança, sendo esta última representada pela Sociedade e
+pelo Poder Executivo. O controle externo é realizado pelos Poderes Legislativo e Judiciário, Ministério Público, TCU, CGU, entre
+outros órgãos.
+As instâncias internas de apoio à governança, representadas pela Auditoria, Corregedoria, Ouvidoria, Inteligência, Comissão
+de Ética e pela Superintendência de Governança e Estratégia, são responsáveis por definir e avaliar a estratégia e as políticas
+da Agência, realizar a interlocução com órgãos de controle, monitorar riscos e realizar controles e auditorias internas,
+comunicando diretamente à Diretoria Colegiada, disfunções identificadas.
+Figura 2. Estrutura de governança
+Nesse contexto, a Diretoria Colegiada estabeleceu a competência da Superintendência de Governança e Estratégia para
+coordenar a elaboração e a implementação do Programa de Governança em Privacidade, bem como a competência da
+Ouvidoria para atuar como canal de comunicação entre a ANP, os titulares dos dados e a Autoridade Nacional de Proteção
+de Dados (ANPD), por meio do encarregado pelo tratamento de dados pessoais.
+6"
+governanca-privacidade (2).pdf,7,"PROGRAMA DE GOVERNANÇA EM PRIVACIDADE DA ANP | SGE – ANP | 2021
+3. PROGRAMA DE GOVERNANÇA EM PRIVACIDADE
+O Programa de Governança em Privacidade - PGP pode ser entendido como o conjunto de regras de boas práticas e de
+governança que estabelecem as condições de organização, o regime de funcionamento, os procedimentos, as reclamações
+dos titulares, as normas de segurança, os padrões técnicos, as obrigações para os envolvidos no tratamento, as ações
+educativas, os mecanismos internos de supervisão e de diminuição de riscos e outros aspectos referentes ao tratamento de
+dados pessoais.
+O art. 50, § 2º, I, da LGPD elenca as características mínimas de um Programa de Governança em Privacidade - PGP, quais
+sejam:
+• comprometimento do controlador em adotar processos e políticas internas que assegurem o cumprimento, de forma
+abrangente, de normas e boas práticas relativas à proteção de dados pessoais;
+• aplicável a todo o conjunto de dados pessoais que estejam sob seu controle, independentemente do modo como se
+realizou sua coleta;
+• adaptado à estrutura, à escala e ao volume de suas operações, bem como à sensibilidade dos dados tratados;
+• estabelecimento de políticas e salvaguardas adequadas com base em processo de avaliação sistemática de impactos e
+riscos à privacidade;
+• estabelecimento de relação de confiança com o titular, por meio de atuação transparente e que assegure mecanismos de
+participação do titular;
+• integrado a sua estrutura geral de governança e que estabeleça e aplique mecanismos de supervisão internos e externos;
+• conte com planos de resposta a incidentes e remediação; e
+• atualizado constantemente com base em informações obtidas a partir de monitoramento contínuo e avaliações periódicas.
+Além disso, o controlador poderá demonstrar a efetividade de seu programa de governança em privacidade quando
+apropriado e, em especial, a pedido da autoridade nacional ou de outra entidade responsável por promover o cumprimento
+de boas práticas ou códigos de conduta, os quais, de forma independente, promovam o cumprimento da LGPD.
+3.1. Metodologia
+Ao contrário de um projeto, que tem início, meio e fim, um programa estabelece uma metodologia abrangente que influenciará
+permanentemente os processos de tomada de decisão com base em riscos e melhorias contínuas na maturidade. Na
+implementação da LGPD na ANP, para alcançar objetivos do programa, foi selecionada a metodologia mais adequada à
+realidade institucional.
+A estratégia para implementação da LGPD na ANP, tendo em vista as limitações de recursos humanos, seguirá a abordagem
+iterativa e incremental, ao invés da execução do modelo em cascata. Visando atender a totalidade dos dados pessoais sob o
+controle desta Agência, dividiremos os ciclos de entrega considerando os macroprocessos organizacionais da ANP e sua
+relevância potencial na lida com dados pessoais.
+Com isso, pretendemos dividir a implementação da LGPD na ANP em ciclos, em que primeiro vamos tratar das Uorgs já
+visitadas anteriormente à elaboração do plano, sendo elas: AUD, CRG, OUV, SCI, SCL, SDT e SPC; seguido pelos
+macroprocessos, na seguinte ordem: Outorga e contratação das atividades das indústrias do petróleo, gás natural e
+biocombustíveis; Gestão de Pessoas; Fiscalização das atividades das indústrias do petróleo, gás natural e biocombustíveis;
+Acompanhamento da execução de contratos das atividades das indústrias do petróleo e gás natural; Relacionamento com a
+Sociedade; Regulação das atividades das indústrias do petróleo, gás natural e biocombustíveis; Gestão das informações das
+atividades das indústrias do petróleo, gás natural e biocombustíveis; Suporte Institucional; Gestão Estratégica; Gestão da
+Governança; e Gestão de Tecnologia da Informação.
+Os critérios de priorização dos macroprocessos considerados, neste momento, para a ordem proposta acima são: maior
+proporção de serviços digitais da ANP publicados no portal Gov.br relacionados a autorizações e outorgas; principais portas
+de entrada de dados pessoais da ANP, por meio de cadastro para uso dos sistemas que apoiam os serviços digitais, como o
+CSA – Central de Sistemas da ANP e o SEI; a lida com dados pessoais de servidores e colaboradores; participação em eventos
+promovidos pela ANP ou de que a ANP faça parte; além de volume de seus contratos.
+7"
+governanca-privacidade (2).pdf,8,"PROGRAMA DE GOVERNANÇA EM PRIVACIDADE DA ANP | SGE – ANP | 2021
+A STI e SGA-CGD (Coordenação de Gestão Documental), como administradores do CSA e do SEI, que apoiam serviços da
+ANP, serão abordados paralelamente, dada a sua relevância no processamento de dados pessoais. O mesmo poderá ser feito
+com a SGP, que lida com um grande volume de dados pessoais de servidores e colaboradores.
+Cabe ressaltar que, à medida que os ciclos avancem, a priorização poderá ser revista, conforme o aprendizado da equipe de
+implementação da LGPD.
+O reporte de resultados à Diretoria Colegiada acontecerá de maneira independente do andamento deste Plano de Ação, a
+cada semestre, representando uma “fotografia” do plano ao momento da elaboração do reporte. A responsabilidade por esse
+reporte é da equipe de implementação da LGPD na ANP.
+As demais atividades do Guia de Implementação da LGPD serão iniciadas no primeiro ciclo e revisitadas a cada novo ciclo,
+levando em conta o contexto do ciclo, promovendo-se a atualização incremental dos instrumentos envolvidos.
+3.2. Implementação
+Conforme delimitado no Guia de Elaboração de Programa de Governança em Privacidade (2020), o PGP deve ser estruturado
+nas seguintes fases: (i) Iniciação e Planejamento; (ii) Construção e Execução e (iii) Monitoramento, conforme a Figura 1 a seguir:
+Figura 3 Fases do Programa de Governança em Privacidade
+Fonte: Guia de Elaboração do Programa de Governança em Privacidade
+A figura abaixo mostra as etapas sugeridas em todas as três fases.
+Figura 4 Detalhamento das fases do PGP
+Fonte: Guia de Elaboração do Programa de Governança em Privacidade, adaptado para a ANP
+8"
+governanca-privacidade (2).pdf,9,"PROGRAMA DE GOVERNANÇA EM PRIVACIDADE DA ANP | SGE – ANP | 2021
+A. Fase de iniciação e planejamento
+Nomeação do Encarregado pelo Tratamento de Dados Pessoais
+Descrição: A nomeação do encarregado pelo tratamento de dados pessoais da ANP já foi executada e não necessita ser
+repetida a cada ciclo.
+Responsável: Diretoria Colegiada
+Alinhamento de Expectativas com a Alta Administração
+Descrição: Alinhar expectativas e entendimentos com a Diretoria Colegiada, pactuando e aprovando o modelo e os
+instrumentos a serem adotados na ANP, definindo diretrizes de atuação e priorizando ações.
+Responsável: SGE
+Análise de Maturidade / Diagnóstico do atual estágio de adequação à LGPD
+Descrição: Elaborar diagnóstico do estado atual de maturidade da organização quanto à proteção de dados pessoais.
+Responsável: SGE
+Análise e Adoção de Medidas de Segurança, inclusive Diretrizes e Cultura Interna
+Descrição: Analisar e adotar medidas de segurança, revisando e propondo aprimoramento das diretrizes e cultura internas.
+Coordenação: SGE
+Execução: Descentralizada nas Unidades Organizacionais, de acordo com os ciclos apresentados na metodologia.
+Subatividades:
+• Realização de Benchmarking com outros órgãos da Administração Pública - Realizar um diagnóstico do estado de
+maturidade de outros órgãos da administração pública quanto à proteção de dados pessoais, a fim de identificar e adotar
+boas práticas implementadas em outras instituições;
+• Designação de pontos focais em cada área;
+• Elaborar Portaria que institui diretrizes e responsabilidades no âmbito do Programa de Governança em Privacidade da ANP.
+Instituição de Estrutura Organizacional para Governança e Gestão da Proteção de Dados Pessoais
+Descrição: A estruturação da gestão da proteção de dados pessoais, atividade que consiste em definir as competências
+regimentais para o desempenho das atribuições necessárias à observância da LGPD na Agência, foi realizada e não precisa ser
+repetida a cada ciclo.
+Responsável: Diretoria Colegiada
+Coordenação: SGE
+Observação: Foi estabelecido no Regimento Interno que compete à SGE coordenar a elaboração e a implementação do
+Programa de Governança em Privacidade (art. 94, XIII), e compete à Ouvidoria atuar como canal de comunicação entre a ANP,
+os titulares dos dados e a Autoridade Nacional de Proteção de Dados - ANPD (art. 97, VII).
+Inventário de Dados Pessoais
+Descrição: Mapear o ciclo de vida de todos os dados pessoais tratados pela Agência, orientando os interlocutores indicados
+por cada unidade organizacional na coleta desses dados em uma base tabular estruturada que permita gerenciá-lo
+posteriormente.
+Coordenação: SGE
+Execução: Descentralizada nas Unidades Organizacionais, de acordo com os ciclos apresentados na metodologia.
+Subatividades:
+• Criação de Base de Dados para o Inventário - A criação da base de dados para o inventário de dados pessoais foi
+inicialmente pensada para um formato em planilha Excel, em que cada Uorg preenche o seu arquivo, sendo eles
+armazenados em pasta compartilhada na nuvem corporativa da ANP, dentro do grupo da Coordenação de Governança
+da SGE. No entanto, cabe ser esse formato repensado em tempo oportuno, pois a consulta por determinado item fica
+dificultada quando se tem o inventário particionado em arquivos distintos, além da interface para preenchimento e para a
+consulta não ser amigável;
+• Comunicar o início das atividades e solicitar a indicação de interlocutores pelas unidades envolvidas;
+• Realizar reuniões com os interlocutores indicados pelas Uorgs para apresentação do tema e fornecimento de orientações
+para o preenchimento da planilha de inventário de dados pessoais;
+• Fazer o levantamento dos dados e preencher o inventário.
+9"
+governanca-privacidade (2).pdf,10,"PROGRAMA DE GOVERNANÇA EM PRIVACIDADE DA ANP | SGE – ANP | 2021
+Levantamento de Contratos relacionados a Dados Pessoais
+Descrição: Identificar contratos em que a Agência coleta, transfere e processa dados pessoais. Verificar a possibilidade de fazer
+essa revisão no momento de cada renovação. Verificar nas planilhas de inventário se há algo nesse sentido, caso contrário
+precisaremos voltar a essas áreas para resolver essa tarefa.
+Coordenação: SGE
+Execução: Descentralizada nas Unidades Organizacionais, de acordo com os ciclos apresentados na metodologia
+B. Fase de construção e execução
+Políticas e Práticas para Proteção da Privacidade do Cidadão
+Descrição: Desenvolver políticas e práticas para proteger a privacidade do cidadão, garantindo que todos os usos dos dados
+pessoais são conhecidos e adequados de acordo com as leis, bem como sua proteção contra mau uso ou revelação inadvertida
+ou deliberada.
+Responsável: SGE/STI/SGP
+Subatividades:
+• Analisar os inventários encaminhados pelas unidades envolvidas;
+• Analisar e priorizar medidas de segurança em bancos de dados, sistemas, redes e servidores de infraestrutura da ANP;
+• Capacitação dos servidores envolvidos na implementação da LGPD - Realizar treinamento para os servidores diretamente
+envolvidos em atividades que realizam tratamento de dados pessoais (capacitação prioritária).
+Cultura de Segurança e Proteção de Dados e Privacidade desde a Concepção (Privacy by Design)
+Descrição: Disseminação da cultura de segurança e proteção de dados e privacidade com o intuito de comunicar os objetivos,
+metas e indicadores utilizados, além de divulgar o papel da Administração Pública como custodiante dos dados e sua
+responsabilidade ao tratar os dados pessoais dos cidadãos.
+Execução: SGE/OUV/SCI/SGP
+Subatividades:
+• Instituir plano de capacitação que abranja treinamento e conscientização de seus servidores e colaboradores em proteção
+de dados pessoais por meio de palestras e cursos.
+• Implementar o conceito de Privacidade desde a Concepção de forma que a privacidade e a proteção de dados sejam
+consideradas desde a concepção e durante todo o ciclo de vida do projeto, sistema, serviço, produto ou processo.
+• Implementar por meios de comunicados periódicos mensais a cultura de segurança e proteção de dados pessoais.
+Elaboração de Relatórios de Impacto de Proteção de Dados (RIPD)
+Descrição: Elaborar relatórios de impacto de proteção de dados com vistas a mitigar os riscos de danos aos titulares
+(depende do inventário de dados).
+Coordenação: SGE
+Execução: Descentralizada nas Unidades Organizacionais, de acordo com os ciclos apresentados na metodologia
+Medidas e Política de Segurança da Informação / Política de Privacidade / Termo de Uso
+Descrição: Desenvolver uma política de segurança da instituição, conforme a Instrução Normativa nº 1, de 27 de maio de 2020,
+do Gabinete de Segurança Institucional da Presidência da República (GSI/PR). Elaborar uma Política de Privacidade, documento
+informativo pelo qual o prestador de serviço transparece ao usuário a forma como o serviço realiza o tratamento dos dados
+pessoais e como ele fornece privacidade ao usuário, bom como elaborar Termo de Uso.
+Responsável: SGE
+Subatividades:
+• Revisar a Política de Segurança da Informação e Comunicações – POSIC
+• Elaborar Política de Privacidade e Termo de Uso para sistema, formulários de inscrição em eventos e pesquisa de qualidade;
+• Elaborar Aviso de Privacidade do site da ANP.
+10"
+governanca-privacidade (2).pdf,11,"PROGRAMA DE GOVERNANÇA EM PRIVACIDADE DA ANP | SGE – ANP | 2021
+Adequação das Cláusulas Contratuais
+Descrição: Adequar os contratos, convênios e outros instrumentos que impliquem no tratamento de dados pessoais em nome
+da ANP, mapeados pelo Inventário. Avaliar demais contratos de prestação de serviço e aquisição de materiais, qual seria a
+melhor cláusula-padrão para esses casos, que não lidam diretamente com tratamento de dados pessoais em nome da ANP.
+Coordenação: SGE
+Execução: Descentralizada nas Unidades Organizacionais, de acordo com os ciclos apresentados na metodologia
+Subatividades:
+• Estabelecer critérios para a priorização dos contratos cuja contratada realize tratamento de dados pessoais em nome da
+ANP;
+• Elaborar cláusulas padrão/padronizar modelos;
+• Adequar contratos.
+C. Monitoramento
+Indicadores de Performance
+Descrição: Elaborar indicadores para monitoramento das atividades de adequação da ANP à LGPD. Verificar as sugestões
+presentes no Guia de Elaboração do Programa de Governança em Privacidade e adequar para realidade da ANP, colocando
+os indicadores em BI.
+Responsável: SGE
+Gestão de Incidentes
+Descrição: Modelar um processo de Gestão de Incidentes, que registre os incidentes de segurança da informação e de
+privacidade ocorridos e que armazene informações. Implementar e manter controles e procedimentos específicos para
+detecção, tratamento, coleta/preservação de evidências e resposta a incidentes de segurança da informação e privacidade, de
+forma a reduzir o nível de risco ao qual a Solução de TIC e/ou a ANP está exposta, considerando os critérios de aceitabilidade
+de riscos definidos.
+Responsável: SGE/OUV/STI/SCI/Uorgs
+Subatividades:
+• Modelar o processo de gestão de incidentes de dados pessoais.
+• Identificar canais de comunicação com a ANPD, titulares, sociedade e operador; avaliar possibilidade de uso da Central de
+Atendimento da ANP para recebimento de incidentes; comunicar à SCI para redirecionar todas as solicitações feitas em
+mídias sociais para o canal oficial definido.
+• Adotar medidas de segurança, técnicas e administrativas, para proteger os dados pessoais e implementar controles capazes
+de mitigar riscos que possam resultar em violação da privacidade.
+• Desenvolver Plano de Resposta a Incidentes que abranja o tratamento de incidentes que envolvem violação de dados
+pessoais, com a identificação, o registro e o tratamento de incidentes de violação de dados pessoais.
+• Desenvolver Plano de Comunicação de Incidentes orientando a forma que os incidentes de segurança, que acarretem risco
+ou dano, sejam informados aos órgãos fiscalizatórios e à imprensa.
+Análise e Reporte de Resultados
+Descrição: Monitorar e acompanhar o número de incidentes de violação de dados pessoais e/ou vazamento de dados
+pessoais, com vistas à adoção de medidas corretivas.
+Responsável: OUV/STI
+11"
+governanca-privacidade (2).pdf,12,"PROGRAMA DE GOVERNANÇA EM PRIVACIDADE DA ANP | SGE – ANP | 2021
+4. Anexo
+Fase Responsável Status Evidências
+Portaria ANP nº 279,
+Diretoria
+Nomeação do Encarregado pelo Tratamento de Dados Pessoais Concluída de 5 de outubro de
+Colegiada
+2020
+Em
+Alinhamento de Expectativas com a Alta Administração SGE
+elaboração
+Documentos SEI nº
+Análise de Maturidade / Diagnóstico do atual estágio de 1538758 e nº 1538765
+SGE Concluída
+adequação à LGPD (processo nº
+48610.219247/2020-06)
+Análise e Adoção de Medidas de Segurança, inclusive Diretrizes
+e Cultura Interna
+Em
+• Elaborar Portaria de instituição de diretrizes e SGE/Uorgs
+elaboração
+responsabilidades no âmbito do Programa de Governança
+em Privacidade da ANP
+Aprovado
+Instituição de Estrutura Organizacional para Governança e Diretoria Portaria ANP nº 25 de
+em Circuito
+Gestão da Proteção de Dados Pessoais Colegiada/SGE 6 de julho de 2021
+Deliberativo
+Em
+Inventário de Dados Pessoais SGE/Uorgs
+elaboração
+Não
+Levantamento de Contratos relacionados a Dados Pessoais SGE/Uorgs
+iniciado
+Políticas e Práticas para Proteção da Privacidade do Cidadão
+Não
+• Analisar e priorizar medidas de segurança em bancos de SGE/STI
+iniciado
+dados, sistemas, redes e servidores de infraestrutura da ANP
+Políticas e Práticas para Proteção da Privacidade do Cidadão
+• Capacitação dos servidores envolvidos na implementação da Não
+SGE/SGP
+LGPD - Realizar treinamento para os servidores diretamente iniciado
+envolvidos em atividades que realizam tratamento de dados
+pessoais (capacitação prioritária)
+Cultura de Segurança e Proteção de Dados e Privacidade desde SGE/OUV/ Não
+a Concepção (Privacy by Design) SCI/SGP iniciado
+Elaboração de Relatórios de Impacto de Proteção de Dados Não
+SGE/Uorgs
+(RIPD) iniciado
+Medidas e Política de Segurança da Informação / Política de
+Privacidade / Termo de Uso Em
+SGE
+• Revisar a Política de Segurança da Informação e elaboração
+Comunicações – POSIC
+12"
+governanca-privacidade (2).pdf,13,"PROGRAMA DE GOVERNANÇA EM PRIVACIDADE DA ANP | SGE – ANP | 2021
+Medidas e Política de Segurança da Informação / Política de
+Privacidade / Termo de Uso
+Em
+• Elaborar Política de Privacidade e Termo de Uso para SGE
+elaboração
+sistema, formulários de inscrição em eventos e pesquisa de
+qualidade
+Medidas e Política de Segurança da Informação / Política de
+Em
+Privacidade / Termo de Uso SGE
+elaboração
+• Elaborar Aviso de Privacidade do site da ANP
+Não
+Adequação das Cláusulas Contratuais SGE/Uorgs
+iniciado
+Não
+Indicadores de Performance SGE
+iniciado
+SGE/OUV/STI/ Não
+Gestão de Incidentes
+SCI/Uorgs iniciado
+Não
+Análise e Reporte de Resultados OUV
+iniciado
+13"
+governanca-privacidade (2).pdf,14,"PROGRAMA DE GOVERNANÇA EM PRIVACIDADE DA ANP | SGE – ANP | 2021
+14"
+governanca-privacidade (3).pdf,1,"PROGRAMA DE GOVERNANÇA EM PRIVACIDADE DA ANP | SGE – ANP | 2021
+PROGRAMA DE
+GOVERNANÇA EM
+PRIVACIDADE
+Superintendência de Governança e Estratégia
+1"
+governanca-privacidade (3).pdf,2,"PROGRAMA DE GOVERNANÇA EM PRIVACIDADE DA ANP | SGE – ANP | 2021
+PROGRAMA DE
+GOVERNANÇA EM
+PRIVACIDADE
+Superintendência de Governança e Estratégia
+2"
+governanca-privacidade (3).pdf,3,"PROGRAMA DE GOVERNANÇA EM PRIVACIDADE DA ANP | SGE – ANP | 2021
+Agência Nacional do Petróleo, Gás Natural e Biocombustíveis
+Julho, 2021
+Diretor-Geral
+Rodolfo Henrique de Saboia
+Diretores
+Symone Christine de Santana Araújo
+José Cesário Cecchi
+Dirceu Cardoso Amorelli Junior
+Raphael Neves Moura (Diretor Substituto)
+Superintendência de Governança e Estratégia
+José Gutman – Superintendente de Governança e Estratégia
+Sergio Alonso Trigo – Superintendente Adjunto de Governança e Estratégia
+Elaboração
+Raphael Borges Rodrigues – Coordenador de Governança
+Andréa da Silva Fonseca – Assessora de Superintendência
+André Moreira Nascimento – Especialista em Regulação
+Aline Pereira dos Santos – Estagiária na Coordenação de Governança
+3"
+governanca-privacidade (3).pdf,4,"PROGRAMA DE GOVERNANÇA EM PRIVACIDADE DA ANP | SGE – ANP | 2021
+1. INTRODUÇÃO À LEI GERAL DE PROTEÇÃO DE DADOS PESSOAIS – LGPD
+Inspirada na norma europeia da Proteção de Dados (GDPR – General Data Protection Regulation), a Lei nº 13.709, de 14 de
+agosto de 2018, Lei Geral de Proteção de Dados Pessoais (LGPD), foi promulgada com o objetivo de regular as atividades de
+“tratamento de dados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público ou
+privado, com o objetivo de proteger os direitos fundamentais de liberdade e de privacidade e o livre desenvolvimento da
+personalidade da pessoa natural” (art. 1º).
+A LGPD versa, portanto, apenas sobre o tratamento de dados pessoais, não atingindo dados de pessoas jurídicas, documentos
+sigilosos ou confidenciais, segredos de negócios, fórmulas, patentes, entre outros documentos ou informações que não sejam
+relacionados à pessoa natural identificada ou identificável, uma vez que tais tipos de informação ou documento encontram
+tutela em outros diplomas legais. Não obstante, ainda que tais documentos e informações não sejam objeto da LGPD, os
+dados pessoais neles contidos estarão protegidos por ela. Nesse sentido, a análise de aplicabilidade da LGPD deverá se
+aprofundar no mapeamento e inventário de dados pessoais estruturados ou não estruturados.
+Importante salientar que a LGPD se aplica a qualquer operação de tratamento realizada por pessoa natural ou por pessoa
+jurídica de direito público ou privado, independentemente do meio, do país de sua sede ou do país onde estejam localizados
+os dados, conforme o disposto em seu art. 3º.
+No que tange à sua aplicação pelo poder público, a LGPD estabelece, em seu art. 23, que o tratamento “deverá ser realizado
+para o atendimento de sua finalidade pública, na persecução do interesse público, com o objetivo de executar as competências
+legais ou cumprir as atribuições legais do serviço público”, “com informações claras e atualizadas sobre a previsão legal, a
+finalidade, os procedimentos e as práticas utilizadas para execução dessas atividades, em veículos de fácil acesso”.
+A LGPD classifica como dado pessoal a informação relacionada à pessoa natural identificada ou identificável (ex: nome, RG,
+CPF, e-mail, IP, placa de automóvel, entre outros) e dado pessoal sensível como aquele relacionado sobre origem racial ou
+étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, dado
+referente à saúde ou à vida sexual, dado genético ou biométrico, quando vinculado a uma pessoa natural, isto é, em linhas
+gerais, são os dados pessoais que possam trazer algum tipo de discriminação quanto ao seu tratamento (art. 5º, I e II).
+Basicamente, a LGPD busca a proteção de direitos e garantias fundamentais da pessoa natural, mediante a harmonização e a
+atualização de conceitos de modo a mitigar riscos e estabelecer regras bem definidas sobre o tratamento de dados pessoais.
+1.1. Conceitos
+Autoridade Nacional de Proteção de Dados - ANPD: órgão da administração pública responsável por zelar, implementar e
+fiscalizar o cumprimento desta Lei em todo o território nacional.
+Controlador: pessoa natural ou jurídica, de direito público ou privado, a quem competem as decisões referentes ao tratamento
+de dados pessoais.
+Dado Pessoal: informação relacionada a pessoa natural identificada ou identificável.
+Dado Pessoal Sensível: dado pessoal sobre origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou
+a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico,
+quando vinculado a uma pessoa natural.
+Encarregado: pessoa natural indicada pelo controlador e operador para atuar como canal de comunicação entre o controlador,
+os titulares dos dados e a Autoridade Nacional de Proteção de Dados.
+Operador: pessoa natural ou jurídica, de direito público ou privado, que realiza o tratamento de dados pessoais em nome do
+controlador.
+Titular: qualquer pessoa natural, protegida pelo princípio da autodeterminação informativa.
+4"
+governanca-privacidade (3).pdf,5,"PROGRAMA DE GOVERNANÇA EM PRIVACIDADE DA ANP | SGE – ANP | 2021
+1.2. Tratamento de Dados
+• mediante o fornecimento de consentimento pelo titular;
+• para o cumprimento de obrigação legal ou regulatória pelo controlador;
+• pela administração pública, para o tratamento e uso compartilhado de dados necessários à execução de políticas públicas
+previstas em leis e regulamentos ou respaldadas em contratos, convênios ou instrumentos congêneres, observadas as
+disposições da Lei;
+• para a realização de estudos por órgão de pesquisa, garantida, sempre que possível, a anonimização dos dados pessoais;
+• quando necessário para a execução de contrato ou de procedimentos preliminares relacionados a contrato do qual seja
+parte o titular, a pedido do titular dos dados;
+• para o exercício regular de direitos em processo judicial, administrativo ou arbitral, esse último nos termos da Lei nº 9.307,
+de 23 de setembro de 1996 (Lei de Arbitragem);
+• para a proteção da vida ou da incolumidade física do titular ou de terceiros;
+• para a tutela da saúde, em procedimento realizado por profissionais da área da saúde ou por entidades sanitárias;
+• para a tutela da saúde, exclusivamente, em procedimento realizado por profissionais de saúde, serviços de saúde ou
+autoridade sanitária;
+• quando necessário para atender aos interesses legítimos do controlador ou de terceiros, exceto no caso de prevalecerem
+direitos e liberdades fundamentais do titular que exijam a proteção dos dados pessoais; ou
+• para a proteção do crédito, inclusive quanto ao disposto na legislação pertinente.
+1.3. Direitos dos Titulares
+• Confirmação da existência de tratamento;
+• Acesso aos dados;
+• Correção de dados incompletos, inexatos ou desatualizados;
+• Anonimização, bloqueio ou eliminação de dados desnecessários, excessivos ou tratados em desconformidade com o
+disposto na Lei;
+• Portabilidade dos dados a outro fornecedor de serviço ou produto, mediante requisição expressa, observados os segredos
+comercial e industrial;
+• Eliminação dos dados pessoais tratados com o consentimento do titular, exceto nas hipóteses previstas na Lei;
+• Informação das entidades públicas e privadas com as quais o controlador realizou uso compartilhado de dados;
+• Informação sobre a possibilidade de não fornecer consentimento e sobre as consequências da negativa;
+• Revogação do consentimento, nos termos da Lei;
+• Peticionamento em relação aos seus dados contra o controlador perante a autoridade nacional.
+• Oposição a tratamento realizado com fundamento em uma das hipóteses de dispensa de consentimento, em caso de
+descumprimento ao disposto na Lei.
+1.3.1. Transparência passiva
+• acesso à informação sobre a confirmação da existência de tratamento
+• acesso aos dados coletados
+• acesso à informação sobre entidades com as quais o controlador realizou uso compartilhado de dados
+1.3.2. Peticionamento
+• correção de dados incompletos, inexatos ou desatualizados
+• anonimização, bloqueio ou eliminação de dados desnecessários, excessivos ou tratados em desconformidade com o
+disposto na LGPD
+• revisão de decisões tomadas unicamente com base em tratamento automatizado de dados pessoais que afetem seus
+interesses
+5"
+governanca-privacidade (3).pdf,6,"PROGRAMA DE GOVERNANÇA EM PRIVACIDADE DA ANP | SGE – ANP | 2021
+2. ESTRUTURA DE GOVERNANÇA DA ANP
+A governança da ANP, alinhada ao disposto no Decreto nº 9.203, de 22 de novembro de 2017, é exercida por sua Diretoria
+Colegiada e pela linha hierárquica da Agência, com o apoio de diversos comitês e comissões, tendo como norte o cumprimento
+de suas atribuições legais, o atingimento de seus objetivos estratégicos e a entrega de valor para a sociedade.
+A estrutura é composta por instâncias internas e externas de governança, sendo esta última representada pela Sociedade e
+pelo Poder Executivo. O controle externo é realizado pelos Poderes Legislativo e Judiciário, Ministério Público, TCU, CGU, entre
+outros órgãos.
+As instâncias internas de apoio à governança, representadas pela Auditoria, Corregedoria, Ouvidoria, Inteligência, Comissão
+de Ética e pela Superintendência de Governança e Estratégia, são responsáveis por definir e avaliar a estratégia e as políticas
+da Agência, realizar a interlocução com órgãos de controle, monitorar riscos e realizar controles e auditorias internas,
+comunicando diretamente à Diretoria Colegiada, disfunções identificadas.
+Figura 2. Estrutura de governança
+Nesse contexto, a Diretoria Colegiada estabeleceu a competência da Superintendência de Governança e Estratégia para
+coordenar a elaboração e a implementação do Programa de Governança em Privacidade, bem como a competência da
+Ouvidoria para atuar como canal de comunicação entre a ANP, os titulares dos dados e a Autoridade Nacional de Proteção
+de Dados (ANPD), por meio do encarregado pelo tratamento de dados pessoais.
+6"
+governanca-privacidade (3).pdf,7,"PROGRAMA DE GOVERNANÇA EM PRIVACIDADE DA ANP | SGE – ANP | 2021
+3. PROGRAMA DE GOVERNANÇA EM PRIVACIDADE
+O Programa de Governança em Privacidade - PGP pode ser entendido como o conjunto de regras de boas práticas e de
+governança que estabelecem as condições de organização, o regime de funcionamento, os procedimentos, as reclamações
+dos titulares, as normas de segurança, os padrões técnicos, as obrigações para os envolvidos no tratamento, as ações
+educativas, os mecanismos internos de supervisão e de diminuição de riscos e outros aspectos referentes ao tratamento de
+dados pessoais.
+O art. 50, § 2º, I, da LGPD elenca as características mínimas de um Programa de Governança em Privacidade - PGP, quais
+sejam:
+• comprometimento do controlador em adotar processos e políticas internas que assegurem o cumprimento, de forma
+abrangente, de normas e boas práticas relativas à proteção de dados pessoais;
+• aplicável a todo o conjunto de dados pessoais que estejam sob seu controle, independentemente do modo como se
+realizou sua coleta;
+• adaptado à estrutura, à escala e ao volume de suas operações, bem como à sensibilidade dos dados tratados;
+• estabelecimento de políticas e salvaguardas adequadas com base em processo de avaliação sistemática de impactos e
+riscos à privacidade;
+• estabelecimento de relação de confiança com o titular, por meio de atuação transparente e que assegure mecanismos de
+participação do titular;
+• integrado a sua estrutura geral de governança e que estabeleça e aplique mecanismos de supervisão internos e externos;
+• conte com planos de resposta a incidentes e remediação; e
+• atualizado constantemente com base em informações obtidas a partir de monitoramento contínuo e avaliações periódicas.
+Além disso, o controlador poderá demonstrar a efetividade de seu programa de governança em privacidade quando
+apropriado e, em especial, a pedido da autoridade nacional ou de outra entidade responsável por promover o cumprimento
+de boas práticas ou códigos de conduta, os quais, de forma independente, promovam o cumprimento da LGPD.
+3.1. Metodologia
+Ao contrário de um projeto, que tem início, meio e fim, um programa estabelece uma metodologia abrangente que influenciará
+permanentemente os processos de tomada de decisão com base em riscos e melhorias contínuas na maturidade. Na
+implementação da LGPD na ANP, para alcançar objetivos do programa, foi selecionada a metodologia mais adequada à
+realidade institucional.
+A estratégia para implementação da LGPD na ANP, tendo em vista as limitações de recursos humanos, seguirá a abordagem
+iterativa e incremental, ao invés da execução do modelo em cascata. Visando atender a totalidade dos dados pessoais sob o
+controle desta Agência, dividiremos os ciclos de entrega considerando os macroprocessos organizacionais da ANP e sua
+relevância potencial na lida com dados pessoais.
+Com isso, pretendemos dividir a implementação da LGPD na ANP em ciclos, em que primeiro vamos tratar das Uorgs já
+visitadas anteriormente à elaboração do plano, sendo elas: AUD, CRG, OUV, SCI, SCL, SDT e SPC; seguido pelos
+macroprocessos, na seguinte ordem: Outorga e contratação das atividades das indústrias do petróleo, gás natural e
+biocombustíveis; Gestão de Pessoas; Fiscalização das atividades das indústrias do petróleo, gás natural e biocombustíveis;
+Acompanhamento da execução de contratos das atividades das indústrias do petróleo e gás natural; Relacionamento com a
+Sociedade; Regulação das atividades das indústrias do petróleo, gás natural e biocombustíveis; Gestão das informações das
+atividades das indústrias do petróleo, gás natural e biocombustíveis; Suporte Institucional; Gestão Estratégica; Gestão da
+Governança; e Gestão de Tecnologia da Informação.
+Os critérios de priorização dos macroprocessos considerados, neste momento, para a ordem proposta acima são: maior
+proporção de serviços digitais da ANP publicados no portal Gov.br relacionados a autorizações e outorgas; principais portas
+de entrada de dados pessoais da ANP, por meio de cadastro para uso dos sistemas que apoiam os serviços digitais, como o
+CSA – Central de Sistemas da ANP e o SEI; a lida com dados pessoais de servidores e colaboradores; participação em eventos
+promovidos pela ANP ou de que a ANP faça parte; além de volume de seus contratos.
+7"
+governanca-privacidade (3).pdf,8,"PROGRAMA DE GOVERNANÇA EM PRIVACIDADE DA ANP | SGE – ANP | 2021
+A STI e SGA-CGD (Coordenação de Gestão Documental), como administradores do CSA e do SEI, que apoiam serviços da
+ANP, serão abordados paralelamente, dada a sua relevância no processamento de dados pessoais. O mesmo poderá ser feito
+com a SGP, que lida com um grande volume de dados pessoais de servidores e colaboradores.
+Cabe ressaltar que, à medida que os ciclos avancem, a priorização poderá ser revista, conforme o aprendizado da equipe de
+implementação da LGPD.
+O reporte de resultados à Diretoria Colegiada acontecerá de maneira independente do andamento deste Plano de Ação, a
+cada semestre, representando uma “fotografia” do plano ao momento da elaboração do reporte. A responsabilidade por esse
+reporte é da equipe de implementação da LGPD na ANP.
+As demais atividades do Guia de Implementação da LGPD serão iniciadas no primeiro ciclo e revisitadas a cada novo ciclo,
+levando em conta o contexto do ciclo, promovendo-se a atualização incremental dos instrumentos envolvidos.
+3.2. Implementação
+Conforme delimitado no Guia de Elaboração de Programa de Governança em Privacidade (2020), o PGP deve ser estruturado
+nas seguintes fases: (i) Iniciação e Planejamento; (ii) Construção e Execução e (iii) Monitoramento, conforme a Figura 1 a seguir:
+Figura 3 Fases do Programa de Governança em Privacidade
+Fonte: Guia de Elaboração do Programa de Governança em Privacidade
+A figura abaixo mostra as etapas sugeridas em todas as três fases.
+Figura 4 Detalhamento das fases do PGP
+Fonte: Guia de Elaboração do Programa de Governança em Privacidade, adaptado para a ANP
+8"
+governanca-privacidade (3).pdf,9,"PROGRAMA DE GOVERNANÇA EM PRIVACIDADE DA ANP | SGE – ANP | 2021
+A. Fase de iniciação e planejamento
+Nomeação do Encarregado pelo Tratamento de Dados Pessoais
+Descrição: A nomeação do encarregado pelo tratamento de dados pessoais da ANP já foi executada e não necessita ser
+repetida a cada ciclo.
+Responsável: Diretoria Colegiada
+Alinhamento de Expectativas com a Alta Administração
+Descrição: Alinhar expectativas e entendimentos com a Diretoria Colegiada, pactuando e aprovando o modelo e os
+instrumentos a serem adotados na ANP, definindo diretrizes de atuação e priorizando ações.
+Responsável: SGE
+Análise de Maturidade / Diagnóstico do atual estágio de adequação à LGPD
+Descrição: Elaborar diagnóstico do estado atual de maturidade da organização quanto à proteção de dados pessoais.
+Responsável: SGE
+Análise e Adoção de Medidas de Segurança, inclusive Diretrizes e Cultura Interna
+Descrição: Analisar e adotar medidas de segurança, revisando e propondo aprimoramento das diretrizes e cultura internas.
+Coordenação: SGE
+Execução: Descentralizada nas Unidades Organizacionais, de acordo com os ciclos apresentados na metodologia.
+Subatividades:
+• Realização de Benchmarking com outros órgãos da Administração Pública - Realizar um diagnóstico do estado de
+maturidade de outros órgãos da administração pública quanto à proteção de dados pessoais, a fim de identificar e adotar
+boas práticas implementadas em outras instituições;
+• Designação de pontos focais em cada área;
+• Elaborar Portaria que institui diretrizes e responsabilidades no âmbito do Programa de Governança em Privacidade da ANP.
+Instituição de Estrutura Organizacional para Governança e Gestão da Proteção de Dados Pessoais
+Descrição: A estruturação da gestão da proteção de dados pessoais, atividade que consiste em definir as competências
+regimentais para o desempenho das atribuições necessárias à observância da LGPD na Agência, foi realizada e não precisa ser
+repetida a cada ciclo.
+Responsável: Diretoria Colegiada
+Coordenação: SGE
+Observação: Foi estabelecido no Regimento Interno que compete à SGE coordenar a elaboração e a implementação do
+Programa de Governança em Privacidade (art. 94, XIII), e compete à Ouvidoria atuar como canal de comunicação entre a ANP,
+os titulares dos dados e a Autoridade Nacional de Proteção de Dados - ANPD (art. 97, VII).
+Inventário de Dados Pessoais
+Descrição: Mapear o ciclo de vida de todos os dados pessoais tratados pela Agência, orientando os interlocutores indicados
+por cada unidade organizacional na coleta desses dados em uma base tabular estruturada que permita gerenciá-lo
+posteriormente.
+Coordenação: SGE
+Execução: Descentralizada nas Unidades Organizacionais, de acordo com os ciclos apresentados na metodologia.
+Subatividades:
+• Criação de Base de Dados para o Inventário - A criação da base de dados para o inventário de dados pessoais foi
+inicialmente pensada para um formato em planilha Excel, em que cada Uorg preenche o seu arquivo, sendo eles
+armazenados em pasta compartilhada na nuvem corporativa da ANP, dentro do grupo da Coordenação de Governança
+da SGE. No entanto, cabe ser esse formato repensado em tempo oportuno, pois a consulta por determinado item fica
+dificultada quando se tem o inventário particionado em arquivos distintos, além da interface para preenchimento e para a
+consulta não ser amigável;
+• Comunicar o início das atividades e solicitar a indicação de interlocutores pelas unidades envolvidas;
+• Realizar reuniões com os interlocutores indicados pelas Uorgs para apresentação do tema e fornecimento de orientações
+para o preenchimento da planilha de inventário de dados pessoais;
+• Fazer o levantamento dos dados e preencher o inventário.
+9"
+governanca-privacidade (3).pdf,10,"PROGRAMA DE GOVERNANÇA EM PRIVACIDADE DA ANP | SGE – ANP | 2021
+Levantamento de Contratos relacionados a Dados Pessoais
+Descrição: Identificar contratos em que a Agência coleta, transfere e processa dados pessoais. Verificar a possibilidade de fazer
+essa revisão no momento de cada renovação. Verificar nas planilhas de inventário se há algo nesse sentido, caso contrário
+precisaremos voltar a essas áreas para resolver essa tarefa.
+Coordenação: SGE
+Execução: Descentralizada nas Unidades Organizacionais, de acordo com os ciclos apresentados na metodologia
+B. Fase de construção e execução
+Políticas e Práticas para Proteção da Privacidade do Cidadão
+Descrição: Desenvolver políticas e práticas para proteger a privacidade do cidadão, garantindo que todos os usos dos dados
+pessoais são conhecidos e adequados de acordo com as leis, bem como sua proteção contra mau uso ou revelação inadvertida
+ou deliberada.
+Responsável: SGE/STI/SGP
+Subatividades:
+• Analisar os inventários encaminhados pelas unidades envolvidas;
+• Analisar e priorizar medidas de segurança em bancos de dados, sistemas, redes e servidores de infraestrutura da ANP;
+• Capacitação dos servidores envolvidos na implementação da LGPD - Realizar treinamento para os servidores diretamente
+envolvidos em atividades que realizam tratamento de dados pessoais (capacitação prioritária).
+Cultura de Segurança e Proteção de Dados e Privacidade desde a Concepção (Privacy by Design)
+Descrição: Disseminação da cultura de segurança e proteção de dados e privacidade com o intuito de comunicar os objetivos,
+metas e indicadores utilizados, além de divulgar o papel da Administração Pública como custodiante dos dados e sua
+responsabilidade ao tratar os dados pessoais dos cidadãos.
+Execução: SGE/OUV/SCI/SGP
+Subatividades:
+• Instituir plano de capacitação que abranja treinamento e conscientização de seus servidores e colaboradores em proteção
+de dados pessoais por meio de palestras e cursos.
+• Implementar o conceito de Privacidade desde a Concepção de forma que a privacidade e a proteção de dados sejam
+consideradas desde a concepção e durante todo o ciclo de vida do projeto, sistema, serviço, produto ou processo.
+• Implementar por meios de comunicados periódicos mensais a cultura de segurança e proteção de dados pessoais.
+Elaboração de Relatórios de Impacto de Proteção de Dados (RIPD)
+Descrição: Elaborar relatórios de impacto de proteção de dados com vistas a mitigar os riscos de danos aos titulares
+(depende do inventário de dados).
+Coordenação: SGE
+Execução: Descentralizada nas Unidades Organizacionais, de acordo com os ciclos apresentados na metodologia
+Medidas e Política de Segurança da Informação / Política de Privacidade / Termo de Uso
+Descrição: Desenvolver uma política de segurança da instituição, conforme a Instrução Normativa nº 1, de 27 de maio de 2020,
+do Gabinete de Segurança Institucional da Presidência da República (GSI/PR). Elaborar uma Política de Privacidade, documento
+informativo pelo qual o prestador de serviço transparece ao usuário a forma como o serviço realiza o tratamento dos dados
+pessoais e como ele fornece privacidade ao usuário, bom como elaborar Termo de Uso.
+Responsável: SGE
+Subatividades:
+• Revisar a Política de Segurança da Informação e Comunicações – POSIC
+• Elaborar Política de Privacidade e Termo de Uso para sistema, formulários de inscrição em eventos e pesquisa de qualidade;
+• Elaborar Aviso de Privacidade do site da ANP.
+10"
+governanca-privacidade (3).pdf,11,"PROGRAMA DE GOVERNANÇA EM PRIVACIDADE DA ANP | SGE – ANP | 2021
+Adequação das Cláusulas Contratuais
+Descrição: Adequar os contratos, convênios e outros instrumentos que impliquem no tratamento de dados pessoais em nome
+da ANP, mapeados pelo Inventário. Avaliar demais contratos de prestação de serviço e aquisição de materiais, qual seria a
+melhor cláusula-padrão para esses casos, que não lidam diretamente com tratamento de dados pessoais em nome da ANP.
+Coordenação: SGE
+Execução: Descentralizada nas Unidades Organizacionais, de acordo com os ciclos apresentados na metodologia
+Subatividades:
+• Estabelecer critérios para a priorização dos contratos cuja contratada realize tratamento de dados pessoais em nome da
+ANP;
+• Elaborar cláusulas padrão/padronizar modelos;
+• Adequar contratos.
+C. Monitoramento
+Indicadores de Performance
+Descrição: Elaborar indicadores para monitoramento das atividades de adequação da ANP à LGPD. Verificar as sugestões
+presentes no Guia de Elaboração do Programa de Governança em Privacidade e adequar para realidade da ANP, colocando
+os indicadores em BI.
+Responsável: SGE
+Gestão de Incidentes
+Descrição: Modelar um processo de Gestão de Incidentes, que registre os incidentes de segurança da informação e de
+privacidade ocorridos e que armazene informações. Implementar e manter controles e procedimentos específicos para
+detecção, tratamento, coleta/preservação de evidências e resposta a incidentes de segurança da informação e privacidade, de
+forma a reduzir o nível de risco ao qual a Solução de TIC e/ou a ANP está exposta, considerando os critérios de aceitabilidade
+de riscos definidos.
+Responsável: SGE/OUV/STI/SCI/Uorgs
+Subatividades:
+• Modelar o processo de gestão de incidentes de dados pessoais.
+• Identificar canais de comunicação com a ANPD, titulares, sociedade e operador; avaliar possibilidade de uso da Central de
+Atendimento da ANP para recebimento de incidentes; comunicar à SCI para redirecionar todas as solicitações feitas em
+mídias sociais para o canal oficial definido.
+• Adotar medidas de segurança, técnicas e administrativas, para proteger os dados pessoais e implementar controles capazes
+de mitigar riscos que possam resultar em violação da privacidade.
+• Desenvolver Plano de Resposta a Incidentes que abranja o tratamento de incidentes que envolvem violação de dados
+pessoais, com a identificação, o registro e o tratamento de incidentes de violação de dados pessoais.
+• Desenvolver Plano de Comunicação de Incidentes orientando a forma que os incidentes de segurança, que acarretem risco
+ou dano, sejam informados aos órgãos fiscalizatórios e à imprensa.
+Análise e Reporte de Resultados
+Descrição: Monitorar e acompanhar o número de incidentes de violação de dados pessoais e/ou vazamento de dados
+pessoais, com vistas à adoção de medidas corretivas.
+Responsável: OUV/STI
+11"
+governanca-privacidade (3).pdf,12,"PROGRAMA DE GOVERNANÇA EM PRIVACIDADE DA ANP | SGE – ANP | 2021
+4. Anexo
+Fase Responsável Status Evidências
+Portaria ANP nº 279,
+Diretoria
+Nomeação do Encarregado pelo Tratamento de Dados Pessoais Concluída de 5 de outubro de
+Colegiada
+2020
+Em
+Alinhamento de Expectativas com a Alta Administração SGE
+elaboração
+Documentos SEI nº
+Análise de Maturidade / Diagnóstico do atual estágio de 1538758 e nº 1538765
+SGE Concluída
+adequação à LGPD (processo nº
+48610.219247/2020-06)
+Análise e Adoção de Medidas de Segurança, inclusive Diretrizes
+e Cultura Interna
+Em
+• Elaborar Portaria de instituição de diretrizes e SGE/Uorgs
+elaboração
+responsabilidades no âmbito do Programa de Governança
+em Privacidade da ANP
+Aprovado
+Instituição de Estrutura Organizacional para Governança e Diretoria Portaria ANP nº 25 de
+em Circuito
+Gestão da Proteção de Dados Pessoais Colegiada/SGE 6 de julho de 2021
+Deliberativo
+Em
+Inventário de Dados Pessoais SGE/Uorgs
+elaboração
+Não
+Levantamento de Contratos relacionados a Dados Pessoais SGE/Uorgs
+iniciado
+Políticas e Práticas para Proteção da Privacidade do Cidadão
+Não
+• Analisar e priorizar medidas de segurança em bancos de SGE/STI
+iniciado
+dados, sistemas, redes e servidores de infraestrutura da ANP
+Políticas e Práticas para Proteção da Privacidade do Cidadão
+• Capacitação dos servidores envolvidos na implementação da Não
+SGE/SGP
+LGPD - Realizar treinamento para os servidores diretamente iniciado
+envolvidos em atividades que realizam tratamento de dados
+pessoais (capacitação prioritária)
+Cultura de Segurança e Proteção de Dados e Privacidade desde SGE/OUV/ Não
+a Concepção (Privacy by Design) SCI/SGP iniciado
+Elaboração de Relatórios de Impacto de Proteção de Dados Não
+SGE/Uorgs
+(RIPD) iniciado
+Medidas e Política de Segurança da Informação / Política de
+Privacidade / Termo de Uso Em
+SGE
+• Revisar a Política de Segurança da Informação e elaboração
+Comunicações – POSIC
+12"
+governanca-privacidade (3).pdf,13,"PROGRAMA DE GOVERNANÇA EM PRIVACIDADE DA ANP | SGE – ANP | 2021
+Medidas e Política de Segurança da Informação / Política de
+Privacidade / Termo de Uso
+Em
+• Elaborar Política de Privacidade e Termo de Uso para SGE
+elaboração
+sistema, formulários de inscrição em eventos e pesquisa de
+qualidade
+Medidas e Política de Segurança da Informação / Política de
+Em
+Privacidade / Termo de Uso SGE
+elaboração
+• Elaborar Aviso de Privacidade do site da ANP
+Não
+Adequação das Cláusulas Contratuais SGE/Uorgs
+iniciado
+Não
+Indicadores de Performance SGE
+iniciado
+SGE/OUV/STI/ Não
+Gestão de Incidentes
+SCI/Uorgs iniciado
+Não
+Análise e Reporte de Resultados OUV
+iniciado
+13"
+governanca-privacidade (3).pdf,14,"PROGRAMA DE GOVERNANÇA EM PRIVACIDADE DA ANP | SGE – ANP | 2021
+14"
 governanca-privacidade.pdf,1,"PROGRAMA DE GOVERNANÇA EM PRIVACIDADE DA ANP | SGE – ANP | 2021
 PROGRAMA DE
 GOVERNANÇA EM
@@ -8013,6 +8859,1028 @@ Sem prejuízo de qualquer outra via de recurso administrativo ou judicial, todos
 reclamação à Autoridade Nacional de Proteção de Dados.
 14"
 termo-uso-politica-privacidade-lgpd (1).pdf,15,"TERMO DE USO E POLÍTICA DE PRIVACIDADE DA ANP | SGE – ANP | 2021
+15"
+termo-uso-politica-privacidade-lgpd (2).pdf,1,"TERMO DE USO E POLÍTICA DE PRIVACIDADE DA ANP | SGE – ANP | 2021
+TERMO DE USO
+E POLÍTICA DE
+PRIVACIDADE
+Superintendência de Governança e Estratégia
+1"
+termo-uso-politica-privacidade-lgpd (2).pdf,2,"TERMO DE USO E POLÍTICA DE PRIVACIDADE DA ANP | SGE – ANP | 2021
+TERMO DE USO
+E POLÍTICA DE
+PRIVACIDADE
+Superintendência de Governança e Estratégia
+2"
+termo-uso-politica-privacidade-lgpd (2).pdf,3,"TERMO DE USO E POLÍTICA DE PRIVACIDADE DA ANP | SGE – ANP | 2021
+Agência Nacional do Petróleo, Gás Natural e Biocombustíveis
+Setembro, 2021
+Diretor-Geral
+Rodolfo Henrique de Saboia
+Diretores
+Symone Christine de Santana Araújo
+José Cesário Cecchi
+Dirceu Cardoso Amorelli Junior
+Raphael Neves Moura (Diretor Substituto)
+Superintendência de Governança e Estratégia
+José Gutman – Superintendente de Governança e Estratégia
+Sergio Alonso Trigo – Superintendente Adjunto de Governança e Estratégia
+Elaboração
+Raphael Borges Rodrigues – Coordenador de Governança
+Andréa da Silva Fonseca – Assessora de Superintendência
+André Moreira Nascimento – Especialista em Regulação
+Aline Pereira dos Santos – Estagiária na Coordenação de Governança
+3"
+termo-uso-politica-privacidade-lgpd (2).pdf,4,"TERMO DE USO E POLÍTICA DE PRIVACIDADE DA ANP | SGE – ANP | 2021
+1. QUAIS INFORMAÇÕES ESTÃO PRESENTES NESTE DOCUMENTO
+Este documento trata do Termo de Uso e Política de Privacidade para os serviços de combustíveis e de petróleo e derivados
+prestados pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - ANP.
+No Termo de Uso, o usuário dos serviços de combustíveis e de petróleo e derivados encontrará informações sobre: o
+funcionamento dos serviços e as regras aplicáveis a eles; o arcabouço legal relacionado à prestação dos serviços; as
+responsabilidades do usuário ao utilizar os serviços; as responsabilidades da administração pública federal ao prover os
+serviços; informações para contato para dirimir dúvidas ou atualizar informações; e o foro responsável por eventuais
+reclamações caso questões deste Termo de Uso tenham sido violadas.
+Na Política de Privacidade, o usuário dos serviços de combustíveis e de petróleo e derivados encontrará informações sobre: o
+tratamento dos dados pessoais realizados, de forma automatizada ou não, e a sua finalidade; os dados pessoais dos usuários
+necessários para a prestação dos serviços; a forma como os dados são coletados; se há compartilhamento de dados com
+terceiros; e as medidas de segurança implementadas para proteger os dados pessoais.
+2. TERMO DE USO
+2.1. ACEITAÇÃO DO TERMO DE USO E POLÍTICA DE PRIVACIDADE
+Ao utilizar os serviços, o usuário confirma que leu e compreendeu o Termo de Uso e a Política de Privacidade aplicáveis aos
+serviços de combustíveis e de petróleo e derivados e concorda em ficar vinculado a eles.
+2.2. DEFINIÇÕES
+Para melhor compreensão deste documento, neste Termo de Uso e Política de Privacidade, consideram-se:
+Agentes de tratamento: o controlador e o operador.
+Agente público: todo aquele que exerce, ainda que transitoriamente ou sem remuneração, por eleição, nomeação, designação,
+contratação ou qualquer outra forma de investidura ou vínculo, mandato, cargo, emprego ou função nos órgãos e entidades
+da Administração Pública, direta e indireta.
+Autoridade Nacional de Proteção de Dados Pessoais - ANPD: órgão da administração pública responsável por zelar,
+implementar e fiscalizar o cumprimento da Lei Geral de Proteção de Dados Pessoais em todo o território nacional.
+Banco de dados: conjunto estruturado de dados pessoais, estabelecido em um ou em vários locais, em suporte eletrônico ou
+físico.
+Código malicioso: qualquer programa de computador, ou parte de um programa, construído com a intenção de provocar
+danos, obter informações não autorizadas ou interromper o funcionamento de sistemas e/ou redes de computadores.
+Consentimento: manifestação livre, informada e inequívoca pela qual o titular concorda com o tratamento de seus dados
+pessoais para uma finalidade determinada.
+Controlador: pessoa natural ou jurídica, de direito público ou privado, a quem competem as decisões referentes ao tratamento
+de dados pessoais.
+Dado pessoal: informação relacionada a pessoa natural identificada ou identificável.
+Dado pessoal sensível: dado pessoal sobre origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou
+a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico,
+quando vinculado a uma pessoa natural.
+Eliminação: exclusão de dado ou de conjunto de dados armazenados em banco de dados, independentemente do
+procedimento empregado.
+Encarregado: pessoa indicada pelo controlador e operador para atuar como canal de comunicação entre o controlador, os
+titulares dos dados e a Autoridade Nacional de Proteção de Dados (ANPD).
+4"
+termo-uso-politica-privacidade-lgpd (2).pdf,5,"TERMO DE USO E POLÍTICA DE PRIVACIDADE DA ANP | SGE – ANP | 2021
+Internet: o sistema constituído do conjunto de protocolos lógicos, estruturado em escala mundial para uso público e irrestrito,
+com a finalidade de possibilitar a comunicação de dados entre terminais por meio de diferentes redes, conforme a Lei nº
+12.965, de 23 de abril de 2014.
+Lei Geral de Proteção de Dados Pessoais - LGPD: Lei nº 13.709, de 14 de agosto de 2018, que dispõe sobre o tratamento de
+dados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público ou privado, com o
+objetivo de proteger os direitos fundamentais de liberdade e de privacidade e o livre desenvolvimento da personalidade da
+pessoa natural.
+Operador: pessoa natural ou jurídica, de direito público ou privado, que realiza o tratamento de dados pessoais em nome do
+controlador.
+Sítios e aplicativos: os sítios são um conjunto de páginas disponíveis na Internet, e os aplicativos são softwares que executam
+um grupo de funções com o objetivo de disponibilizar um serviço aos usuários.
+Terceiro: pessoa ou entidade que não participa diretamente em um contrato, em um ato jurídico ou em um negócio, ou que,
+para além das partes envolvidas, pode ter interesse em um processo jurídico.
+Titular: pessoa natural a quem se referem os dados pessoais que são objeto de tratamento.
+Tratamento: toda operação realizada com dados pessoais, como as que se referem a coleta, produção, recepção, classificação,
+utilização, acesso, reprodução, transmissão, distribuição, processamento, arquivamento, armazenamento, eliminação,
+avaliação ou controle da informação, modificação, comunicação, transferência, difusão ou extração.
+Uso compartilhado de dados: comunicação, difusão, transferência internacional, interconexão de dados pessoais ou
+tratamento compartilhado de bancos de dados pessoais por órgãos e entidades públicos no cumprimento de suas
+competências legais, ou entre esses e entes privados, reciprocamente, com autorização específica, para uma ou mais
+modalidades de tratamento permitidas por esses entes públicos, ou entre entes privados.
+Usuários (ou Usuário, quando individualmente considerado): todas as pessoas naturais que utilizarem os serviços de
+combustíveis e de petróleo e derivados, mesmo como representantes de pessoas jurídicas.
+Violação de dados pessoais: violação de segurança que provoque, de modo acidental ou ilícito, a destruição, a perda, a
+alteração, a divulgação ou o acesso não autorizado a dados pessoais transmitidos, conservados ou sujeitos a qualquer outro
+tipo de tratamento.
+2.3. ARCABOUÇO LEGAL
+O arcabouço legal aplicável aos serviços de combustíveis e de petróleo e derivados compreende:
+ Decreto nº 10.712, de 2 de junho de 2021: Regulamenta a Lei nº 14.134, de 8 de abril de 2021, que dispõe sobre as atividades
+relativas ao transporte de gás natural, de que trata o art. 177 da Constituição, e sobre as atividades de escoamento,
+tratamento, processamento, estocagem subterrânea, acondicionamento, liquefação, regaseificação e comercialização de
+gás natural.
+ Lei nº 14.134, de 8 de abril de 2021: Dispõe sobre as atividades relativas ao transporte de gás natural, de que trata o art.
+177 da Constituição Federal, e sobre as atividades de escoamento, tratamento, processamento, estocagem subterrânea,
+acondicionamento, liquefação, regaseificação e comercialização de gás natural; altera as Leis nºs 9.478, de 6 de agosto de
+1997, e 9.847, de 26 de outubro de 1999; e revoga a Lei nº 11.909, de 4 de março de 2009, e dispositivo da Lei nº 10.438,
+de 26 de abril de 2002.
+ Decreto nº 10.046, de 9 de outubro de 2019: Dispõe sobre a governança no compartilhamento de dados no âmbito da
+administração pública federal e institui o Cadastro Base do Cidadão e o Comitê Central de Governança de Dados.
+ Decreto nº 9.888, de 27 de junho de 2019: Dispõe sobre a definição das metas compulsórias anuais de redução de emissões
+de gases causadores do efeito estufa para a comercialização de combustíveis de que trata a Lei nº 13.576, de 26 de
+dezembro de 2017, e institui o Comitê da Política Nacional de Biocombustíveis - Comitê RenovaBio.
+ Lei nº 13.848, de 25 de junho de 2019: Dispõe sobre a gestão, a organização, o processo decisório e o controle social das
+agências reguladoras, altera a Lei nº 9.427, de 26 de dezembro de 1996, a Lei nº 9.472, de 16 de julho de 1997, a Lei nº
+5"
+termo-uso-politica-privacidade-lgpd (2).pdf,6,"TERMO DE USO E POLÍTICA DE PRIVACIDADE DA ANP | SGE – ANP | 2021
+9.478, de 6 de agosto de 1997, a Lei nº 9.782, de 26 de janeiro de 1999, a Lei nº 9.961, de 28 de janeiro de 2000, a Lei nº
+9.984, de 17 de julho de 2000, a Lei nº 9.986, de 18 de julho de 2000, a Lei nº 10.233, de 5 de junho de 2001, a Medida
+Provisória nº 2.228-1, de 6 de setembro de 2001, a Lei nº 11.182, de 27 de setembro de 2005, e a Lei nº 10.180, de 6 de
+fevereiro de 2001.
+ Decreto nº 9.637, de 26 de dezembro de 2018: Institui a Política Nacional de Segurança da Informação, dispõe sobre a
+governança da segurança da informação, e altera o Decreto nº 2.295, de 4 de agosto de 1997, que regulamenta o disposto
+no art. 24, caput, inciso IX, da Lei nº 8.666, de 21 de junho de 1993, e dispõe sobre a dispensa de licitação nos casos que
+possam comprometer a segurança nacional.
+ Lei nº 13.709, de 14 de agosto de 2018: Dispõe sobre o tratamento de dados pessoais, inclusive nos meios digitais, por
+pessoa natural ou por pessoa jurídica de direito público ou privado, com o objetivo de proteger os direitos fundamentais
+de liberdade e de privacidade e o livre desenvolvimento da personalidade da pessoa natural.
+ Lei nº 13.576, de 26 de dezembro de 2017: Dispõe sobre a Política Nacional de Biocombustíveis (RenovaBio) e dá outras
+providências.
+ Lei nº 13.460, de 26 de junho de 2017: Dispõe sobre participação, proteção e defesa dos direitos do usuário dos serviços
+públicos da administração pública.
+ Lei nº 13.444, de 11 de maio de 2017: Dispõe sobre a Identificação Civil Nacional (ICN).
+ Instrução Normativa nº 12, de 10 de maio de 2017: Política de Segurança da Informação e Comunicações da ANP.
+ Decreto nº 8.936, de 19 de dezembro de 2016: Institui a Plataforma de Cidadania Digital e dispõe sobre a oferta dos serviços
+públicos digitais, no âmbito dos órgãos e das entidades da administração pública federal direta, autárquica e fundacional.
+ Decreto nº 8.777, de 11 de maio de 2016: Institui a Política de Dados Abertos do Poder Executivo federal.
+ Lei nº 12.965, de 23 de abril de 2014: Marco Civil da Internet – Estabelece princípios, garantias, direitos e deveres para o
+uso da Internet no Brasil.
+ Lei nº 12.737, de 30 de novembro de 2012: Dispõe sobre a tipificação criminal de delitos informáticos; altera o Decreto-Lei
+nº 2.848, de 7 de dezembro de 1940 - Código Penal; e dá outras providências.
+ Decreto nº 7.845, de 14 de novembro de 2012: Regulamenta procedimentos para credenciamento de segurança e
+tratamento de informação classificada em qualquer grau de sigilo, e dispõe sobre o Núcleo de Segurança e
+Credenciamento.
+ Decreto nº 7.724, de 16 de maio de 2012: Regulamenta a Lei nº 12.527, de 18 de novembro de 2011 (Lei de Acesso à
+Informação), que dispõe sobre o acesso a informações previsto na Constituição.
+ Lei nº 12.527, de 18 de novembro de 2011: Lei de Acesso à Informação – Regula o acesso a informações previsto na
+Constituição Federal.
+ Lei nº 12.351, de 22 de dezembro de 2010: Dispõe sobre a exploração e a produção de petróleo, de gás natural e de outros
+hidrocarbonetos fluidos, sob o regime de partilha de produção, em áreas do pré-sal e em áreas estratégicas; cria o Fundo
+Social - FS e dispõe sobre sua estrutura e fontes de recursos; altera dispositivos da Lei nº 9.478, de 6 de agosto de 1997; e
+dá outras providências.
+ Lei nº 12.276, de 30 de junho de 2010: Autoriza a União a ceder onerosamente à Petróleo Brasileiro S.A. - PETROBRAS o
+exercício das atividades de pesquisa e lavra de petróleo, de gás natural e de outros hidrocarbonetos fluidos de que trata o
+inciso I do art. 177 da Constituição Federal, e dá outras providências.
+ Lei nº 9.847, de 26 de outubro de 1999: Dispõe sobre a fiscalização das atividades relativas ao abastecimento nacional de
+combustíveis, de que trata a Lei no 9.478, de 6 de agosto de 1997, estabelece sanções administrativas e dá outras
+providências.
+ Lei nº 9.784, de 29 de janeiro de 1999: Regula o processo administrativo no âmbito da Administração Pública Federal.
+6"
+termo-uso-politica-privacidade-lgpd (2).pdf,7,"TERMO DE USO E POLÍTICA DE PRIVACIDADE DA ANP | SGE – ANP | 2021
+ Decreto nº 2.953, de 28 de janeiro de 1999: Dispõe sobre o procedimento administrativo para aplicação de penalidades
+por infrações cometidas nas atividades relativas à indústria do petróleo e ao abastecimento nacional de combustíveis, e dá
+outras providências.
+ Decreto nº 2.705, de 3 de agosto de 1998: Define critérios para cálculo e cobrança das participações governamentais de
+que trata a Lei nº 9.478, de 6 de agosto de 1997, aplicáveis às atividades de exploração, desenvolvimento e produção de
+petróleo e gás natural, e dá outras providências.
+ Decreto nº 2.455, de 14 de janeiro de 1998: Implanta a Agência Nacional do Petróleo - ANP, autarquia sob regime especial,
+aprova sua Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e Funções de Confiança e dá outras
+providências.
+ Lei nº 9.478, de 6 de agosto de 1997: Dispõe sobre a política energética nacional, as atividades relativas ao monopólio do
+petróleo, institui o Conselho Nacional de Política Energética e a Agência Nacional do Petróleo e dá outras providências.
+ Normas complementares do Gabinete de Segurança da Informação da Presidência (GSI/PR): Disciplinam a Gestão de
+Segurança da Informação e Comunicações na Administração Pública Federal, direta e indireta, e dá outras providências.
+2.4. DESCRIÇÃO DOS SERVIÇOS
+A Agência Nacional do Petróleo, Gás Natural e Biocombustíveis – ANP, entidade integrante da Administração Federal Indireta,
+vinculada ao Ministério de Minas e Energia, tem como finalidade promover a regulação, a contratação e a fiscalização das
+atividades econômicas integrantes da indústria do petróleo, do gás natural e dos biocombustíveis, além das atividades
+relacionadas à distribuição e revenda de combustíveis.
+Nesse contexto, a ANP presta, em meio físico ou digital, aos agentes econômicos e aos consumidores e usuários de bens e
+serviços das indústrias de petróleo, de gás natural ou de biocombustíveis um amplo rol de serviços integrantes dos segmentos
+de combustíveis e de petróleo e derivados.
+No segmento de combustíveis, subdividido em armazenamento, compra, venda e uso, distribuição, formulação e produção,
+são prestados serviços de obtenção de autorizações, homologações, habilitações, cadastramentos, aprovações e transferências
+de titularidade.
+No segmento de petróleo e derivados, subdividido em exploração e produção, importação e exportação, processamento e
+comercialização de gás natural, produtos derivados, refino de petróleo, royalties, transporte e outros serviços, são prestados
+serviços de comunicações, declarações, solicitações, transferências de titularidade, aprovações, autorizações, credenciamentos,
+anuências, registros, homologações, cadastramentos, declarações de utilidade pública e acreditações.
+Os requisitos, documentos, etapas e prazos dos serviços estão disponíveis no sítio eletrônico da ANP, na Carta de Serviços ou
+no portal de serviços Gov.br para Combustíveis e Petróleo e Derivados.
+Os serviços digitais da ANP estão disponíveis nos seguintes meios:
+Central de Sistemas da ANP – CSA e Sistema Eletrônico de Informações – SEI: para obter acesso aos serviços digitais da ANP,
+o cadastro precisa ser realizado a partir do fornecimento dos dados pelo titular ou obtenção automática, por meio de
+integração com outros órgãos públicos.
+Os serviços fornecidos aqui estão relacionados às funções legais da ANP, de outorga, regulação e fiscalização. Por meio dos
+sistemas do CSA e do SEI, é possível ao titular solicitar autorizações de funcionamento, atualização da situação cadastral,
+fornecimento de dados e documentos relacionados à prestação de contas à ANP, manifestação de interesse na participação
+em rodadas de licitação de blocos e acompanhamento de processos administrativos em geral. Os dados fornecidos no
+cadastro pelo titular podem ser utilizados para a avaliação da qualidade e melhoria dos serviços digitais, em conformidade
+com o Decreto nº 8.936, de 19 de dezembro de 2016. A participação do titular na pesquisa de qualidade é opcional. Ao
+responder a pesquisa, o titular contribui para que os serviços fornecidos pela ANP possam ser analisados e melhorados.
+Aplicativos mobile da ANP: os aplicativos da ANP podem estar disponíveis para as plataformas iOS e Android, na galeria de
+aplicativos do governo federal. Dados pessoais como IP e geolocalização podem ser coletados para avaliação do uso do
+aplicativo. O aplicativo ANP E&P, por exemplo, possibilita consultas sobre exploração e produção de petróleo e gás natural no
+Brasil.
+7"
+termo-uso-politica-privacidade-lgpd (2).pdf,8,"TERMO DE USO E POLÍTICA DE PRIVACIDADE DA ANP | SGE – ANP | 2021
+Outros serviços disponibilizados pela ANP, não inteiramente digitais, incluem:
+Participação em eventos: os eventos podem ser nacionais ou internacionais, como consultas públicas, audiências públicas,
+fóruns, palestras, seminários, road shows ou outro evento que a ANP venha a promover ou participar. Os interessados em
+participar fornecem seus dados pelo formulário de inscrição ou por e-mail à ANP.
+2.5. DIREITOS DO USUÁRIO DOS SERVIÇOS
+O usuário dos serviços de combustíveis e de petróleo e derivados possui os seguintes direitos, conferidos pela Lei Geral de
+Proteção de Dados Pessoais:
+Direito de confirmação e acesso (art. 18, I e II): é o direito do usuário de obter do serviço a confirmação de que os dados
+pessoais que lhe digam respeito são ou não objeto de tratamento e, se for esse o caso, o direito de acessar os seus dados
+pessoais.
+Direito de retificação (art. 18, III): é o direito de solicitar a correção de dados incompletos, inexatos ou desatualizados.
+Direito à limitação do tratamento dos dados (art. 18, IV): é o direito do usuário de limitar o tratamento de seus dados pessoais,
+podendo exigir a eliminação de dados desnecessários, excessivos ou tratados em desconformidade com o disposto na Lei
+Geral de Proteção de Dados.
+Direito de oposição (art. 18, § 2º): é o direito do usuário de, a qualquer momento, se opor ao tratamento de dados por motivos
+relacionados com a sua situação particular, com fundamento em uma das hipóteses de dispensa de consentimento ou em
+caso de descumprimento ao disposto na Lei Geral de Proteção de Dados Pessoais.
+Direito de portabilidade dos dados (art. 18, V): é o direito do usuário de realizar a portabilidade dos dados a outro fornecedor
+de serviço ou produto, mediante requisição expressa, de acordo com a regulamentação da autoridade nacional, observados
+os segredos comercial e industrial.
+Direito de não ser submetido a decisões automatizadas (art. 20, LGPD): o titular dos dados tem direito a solicitar a revisão de
+decisões tomadas unicamente com base em tratamento automatizado de dados pessoais que afetem seus interesses, incluídas
+as decisões destinadas a definir o seu perfil pessoal, profissional, de consumo e de crédito ou os aspectos de sua personalidade.
+2.6. RESPONSABILIDADES DO USUÁRIO E DA ANP
+Responsabilidades do Usuário
+O usuário se responsabiliza pela precisão e pela veracidade dos dados informados no cadastro e reconhece que a
+inconsistência destes poderá implicar a impossibilidade de utilizar os serviços de combustíveis e de petróleo e derivados
+prestados pela ANP.
+Durante a utilização do serviço, a fim de resguardar e de proteger os direitos de terceiros, o usuário se compromete a fornecer
+somente seus dados pessoais, e não os de terceiros.
+O login e senha só poderão ser utilizados pelo usuário cadastrado. Este se compromete em manter o sigilo da senha, que é
+pessoal e intransferível, não sendo possível, em qualquer hipótese, a alegação de uso indevido, após o ato de
+compartilhamento.
+O usuário dos serviços é responsável pela atualização das suas informações pessoais e pelas consequências na omissão ou
+erros nas informações pessoais cadastradas.
+O usuário é responsável pela reparação de todo e qualquer danos, diretos ou indiretos (inclusive decorrentes de violação de
+quaisquer direitos de outros usuários, de terceiros, abrangendo direitos de propriedade intelectual, de sigilo e de
+personalidade), que sejam causados à ANP, a qualquer outro usuário, ou, ainda, a terceiros, inclusive em virtude do
+descumprimento do disposto neste Termo de Uso e Política de Privacidade ou de qualquer ato praticado a partir de seu acesso
+aos serviços, ao sítio eletrônico da ANP e aos sistemas e aplicativos da ANP.
+O usuário não deve interferir, comprometer ou interromper o serviço, tampouco os servidores ou as redes conectadas ao
+serviço, por meio da transmissão de qualquer malware, worm, vírus, spyware ou qualquer outro código de natureza destrutiva
+8"
+termo-uso-politica-privacidade-lgpd (2).pdf,9,"TERMO DE USO E POLÍTICA DE PRIVACIDADE DA ANP | SGE – ANP | 2021
+ou perturbadora. O usuário não pode inserir conteúdo ou códigos ou, de outra forma, alterar ou interferir na maneira como
+a página do serviço é exibida ou processada no dispositivo do usuário.
+A ANP não poderá ser responsabilizada pelos seguintes fatos:
+ Equipamento infectado ou invadido por atacantes;
+ Equipamento avariado no momento do consumo de serviços;
+ Proteção do dispositivo de acesso do usuário ao serviço;
+ Proteção das informações baseadas nos dispositivos de acesso dos usuários;
+ Abuso de uso dos dispositivos de acesso dos usuários;
+ Monitoração clandestina do dispositivo de acesso dos usuários;
+ Vulnerabilidades ou instabilidades existentes nos sistemas dos usuários;
+ Perímetro inseguro.
+O uso comercial das expressões utilizadas em sistemas e aplicativos da ANP, como marca, nome empresarial ou nome de
+domínio, além dos conteúdos do serviço, assim como os programas, bancos de dados, redes e arquivos que permitem que o
+usuário acesse sua conta, estão protegidos pelas leis e tratados internacionais de direito autoral, marcas, patentes, modelos e
+desenhos industriais.
+Ao acessar os sistemas e aplicativos da ANP, os usuários declaram que irão respeitar todos os direitos de propriedade
+intelectual e os decorrentes da proteção de marcas, patentes e/ou desenhos industriais, depositados ou registrados, bem
+como todos os direitos referentes a terceiros que porventura estejam, ou estiverem de alguma forma, disponíveis nos serviços.
+O simples acesso aos serviços não confere aos usuários qualquer direito ao uso dos nomes, títulos, palavras, frases, marcas,
+patentes, imagens, dados e informações, dentre outras, que nele estejam ou estiverem disponíveis.
+A reprodução dos conteúdos descritos anteriormente está proibida, salvo com prévia autorização por escrito ou caso se
+destinem ao uso exclusivamente pessoal e sem que, em nenhuma circunstância, os usuários adquiram qualquer direito sobre
+esses conteúdos.
+É vedada a utilização dos serviços para finalidades comerciais, publicitárias ou qualquer outra que contrarie a finalidade para
+a qual foi concebido, conforme definido neste documento, sob pena de sujeição às sanções cabíveis na Lei nº 9.610, de 19 de
+fevereiro de 1998, que protege os direitos autorais no Brasil.
+Os visitantes e os usuários assumem toda e qualquer responsabilidade, de caráter civil e/ou criminal, pela utilização indevida
+das informações, textos, gráficos, marcas, imagens, enfim, todo e qualquer direito de propriedade intelectual ou industrial do
+serviço.
+Em nenhuma hipótese, a ANP será responsável pela instalação no equipamento do usuário ou de terceiros, de códigos
+maliciosos (vírus, trojans, malware, worm, bot, backdoor, spyware, rootkit, ou de quaisquer outros que venham a ser criados),
+em decorrência da navegação na internet pelo usuário.
+Responsabilidades da ANP
+A ANP, no papel de custodiante das informações pessoais dos usuários, deve cumprir toda a legislação inerente ao uso correto
+dos dados pessoais do cidadão, de forma a preservar a privacidade dos dados utilizados nos seus serviços.
+Em nenhuma hipótese, a ANP será responsável pela instalação no equipamento do usuário ou de terceiros, de códigos
+maliciosos (vírus, trojans, malware, worm, bot, backdoor, spyware, rootkit ou quaisquer outros que venham a ser criados), em
+decorrência da navegação na internet pelo usuário.
+Em hipótese alguma, o serviço e seus colaboradores responsabilizam-se por eventuais danos diretos, indiretos, emergentes,
+especiais, imprevistos ou multas causadas, em qualquer matéria de responsabilidade, seja contratual, objetiva ou civil (inclusive
+negligência ou outras), decorrentes de qualquer forma de uso do serviço, mesmo que advertida a possibilidade de tais danos.
+Tendo em vista que o serviço lida com informações pessoais, o usuário concorda que não usará robôs, sistemas de varredura
+e armazenamento de dados (como spiders ou scrapers), links escondidos ou qualquer outro recurso escuso, ferramenta,
+9"
+termo-uso-politica-privacidade-lgpd (2).pdf,10,"TERMO DE USO E POLÍTICA DE PRIVACIDADE DA ANP | SGE – ANP | 2021
+programa, algoritmo ou método coletor/extrator de dados automático para acessar, adquirir, copiar ou monitorar o serviço,
+sem permissão expressa por escrito do órgão.
+Quanto aos aplicativos da ANP para dispositivos móveis, sua comercialização é expressamente proibida. Ao concordar com
+este Termo de Uso e utilizar o aplicativo móvel, o usuário receberá uma permissão do órgão para uso não comercial dos
+serviços oferecidos pelo aplicativo, o que, em nenhuma hipótese, fará dele proprietário do aplicativo móvel.
+Caso o usuário descumpra o Termo de Uso ou a Política de Privacidade, ou seja, investigado em razão de má conduta, a ANP
+poderá restringir seu acesso. O usuário também deverá responder legalmente por essa conduta.
+A ANP poderá, quanto às ordens judiciais de pedido de informações, compartilhar informações necessárias para investigações
+ou tomar medidas relacionadas a atividades ilegais, suspeitas de fraude ou ameaças potenciais contra pessoas, bens ou
+sistemas que sustentam o serviço ou de outra forma necessária para cumprir com as obrigações legais. Caso ocorra, a ANP
+notificará os titulares dos dados, salvo quando o processo estiver em segredo de justiça.
+A ANP se compromete a preservar a funcionalidade do serviço ou aplicativo, utilizando um layout que respeite a usabilidade
+e navegabilidade, facilitando a navegação sempre que possível, e a exibir as funcionalidades de maneira completa, precisa e
+suficiente, de modo que as operações realizadas no serviço sejam claras.
+2.7. INFORMAÇÕES PARA CONTATO
+Com fundamento nos arts. 18 e 20 da Lei Geral de Proteção de Dados Pessoais – LGPD, a ANP disponibiliza canal para
+recebimento de petições e reclamações do titular de dados pessoais, por meio do portal Fala.BR ou do e-mail:
+encarregado@anp.gov.br.
+Segundo o art. 5º, inciso VII, da LGPD, o encarregado é a pessoa indicada para atuar como canal de comunicação entre o
+controlador, os titulares dos dados, e a Autoridade Nacional de Proteção de Dados (ANPD).
+Dados do Encarregado pelo Tratamento de Dados Pessoais (Data Protection Officer)
+Nome: Claudio Eduardo Lobato de Abreu Rocha.
+Localização: Escritório Central. Av. Rio Branco, 65 / 12º ao 22º andar, Centro – CEP 20090-003 – Rio de Janeiro/RJ
+Para exercer seus direitos, entre em contato por meio do sítio Fala.BR ou ligue para a Central de Atendimento ao Consumidor,
+no telefone 0800 970 0267, de segunda a sexta-feira, das 8h às 20h.
+3. POLÍTICA DE PRIVACIDADE
+Esta Política de Privacidade foi elaborada em conformidade com a Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet),
+e com a Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais).
+Esta Política de Privacidade poderá ser atualizada em decorrência de eventual atualização normativa, razão pela qual se
+convida o usuário a consultar periodicamente esta seção. Ela tem o objetivo de esclarecer, de forma simples, transparente e
+objetiva, como se dá o tratamento das informações pessoais coletadas pelos serviços pela ANP.
+A ANP se compromete a cumprir as normas previstas na Lei Geral de Proteção de Dados Pessoais (LGPD) e a respeitar os
+princípios dispostos no art. 6º:
+I - finalidade: realização do tratamento para propósitos legítimos, específicos, explícitos e informados ao titular, sem
+possibilidade de tratamento posterior de forma incompatível com essas finalidades;
+II - adequação: compatibilidade do tratamento com as finalidades informadas ao titular, de acordo com o contexto do
+tratamento;
+III - necessidade: limitação do tratamento ao mínimo necessário para a realização de suas finalidades, com abrangência dos
+dados pertinentes, proporcionais e não excessivos em relação às finalidades do tratamento de dados;
+IV - livre acesso: garantia, aos titulares, de consulta facilitada e gratuita sobre a forma e a duração do tratamento, bem como
+sobre a integralidade de seus dados pessoais;
+10"
+termo-uso-politica-privacidade-lgpd (2).pdf,11,"TERMO DE USO E POLÍTICA DE PRIVACIDADE DA ANP | SGE – ANP | 2021
+V - qualidade dos dados: garantia, aos titulares, de exatidão, clareza, relevância e atualização dos dados, de acordo com a
+necessidade e para o cumprimento da finalidade de seu tratamento;
+VI - transparência: garantia, aos titulares, de informações claras, precisas e facilmente acessíveis sobre a realização do
+tratamento e os respectivos agentes de tratamento, observados os segredos comercial e industrial;
+VII - segurança: utilização de medidas técnicas e administrativas aptas a proteger os dados pessoais de acessos não autorizados
+e de situações acidentais ou ilícitas de destruição, perda, alteração, comunicação ou difusão;
+VIII - prevenção: adoção de medidas para prevenir a ocorrência de danos em virtude do tratamento de dados pessoais;
+IX - não discriminação: impossibilidade de realização do tratamento para fins discriminatórios ilícitos ou abusivos;
+X - responsabilização e prestação de contas: demonstração, pelo agente, da adoção de medidas eficazes e capazes de
+comprovar a observância e o cumprimento das normas de proteção de dados pessoais e, inclusive, da eficácia dessas medidas.
+3.1. AGENTES DE TRATAMENTO
+Controlador
+Para os serviços de combustíveis e de petróleo e derivados, as decisões referentes ao tratamento de dados pessoais são de
+responsabilidade da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis – ANP, que atua como controlador.
+Agência Nacional do Petróleo, Gás Natural e Biocombustíveis – ANP
+CNPJ 02.313.673/0002-08
+Escritório Central: Av. Rio Branco, 65 / 12º ao 22º andar, Centro – CEP 20090-003 – Rio de Janeiro/RJ
+Telefone: 0800 970 0267 – Fale Conosco
+Operador
+Para os serviços de combustíveis e de petróleo e derivados, o controlador também atua como operador, ou seja, além de ser
+responsável pelas decisões referentes ao tratamento de dados pessoais, também realiza o tratamento de dados pessoais.
+3.2. ENCARREGADO
+Para os serviços de combustíveis e de petróleo e derivados, quem é responsável por atuar como canal de comunicação entre
+o controlador, os titulares dos dados e a Autoridade Nacional de Proteção de Dados é o encarregado.
+Dados do Encarregado pelo Tratamento de Dados Pessoais (Data Protection Officer)
+Nome: Claudio Eduardo Lobato de Abreu Rocha.
+Contato para orientações e esclarecimentos: encarregado@anp.gov.br.
+3.3. QUAIS DADOS PESSOAIS SÃO TRATADOS
+A utilização, pelo usuário, de determinadas funcionalidades dos serviços dependerá do tratamento dos seguintes dados
+pessoais:
+Dados de identificação pessoal, que podem incluir, mas não limitados a: nome civil, filiação, endereço residencial, número de
+telefone fixo e/ou celular, endereço de correio eletrônico (e-mail), Cadastro de Pessoa Física (CPF), Carteira de Identidade (RG),
+Carteira do Conselho de Classe (OAB, CREA, Corecon etc), Carteira de Trabalho e Previdência Social (CTPS), Registro Nacional
+de Estrangeiro (RNE), Carteira de Registro Nacional Migratório (CRNM) ou passaporte, em caso de estrangeiros;
+Dados financeiros, que podem incluir, mas não limitados a: participação em outras empresas e/ou grupo econômico (sócio,
+cotas patrimoniais, ou representante), atividade profissional, acordos e ajustes comerciais, procurações de outorga por parte
+do agente econômico, folha de pagamento, benefícios e bonificações;
+Dados de educação e profissionais, que podem incluir, mas não limitados a: dados acadêmicos, qualificação e experiência
+profissional, certificações profissionais, emprego atual e carreira, visto e autorização de trabalho, em caso de estrangeiros;
+11"
+termo-uso-politica-privacidade-lgpd (2).pdf,12,"TERMO DE USO E POLÍTICA DE PRIVACIDADE DA ANP | SGE – ANP | 2021
+Características pessoais: que podem incluir, mas não limitados a: data do nascimento, naturalidade, nacionalidade, gênero,
+estado civil;
+Dados de localização, que podem incluir, mas não limitados a: IP (Internet Protocol), geolocalização (latitude e longitude);
+A ANP não coleta dados pessoais sensíveis dos seus agentes ou proponentes.
+3.4. COMO OS DADOS SÃO COLETADOS
+A coleta dos dados pessoais está circunscrita ao mínimo de dados necessários para o cumprimento de obrigação legal ou
+regulatória, para a execução de políticas públicas e para o exercício de direitos em processo judicial, administrativo ou arbitral.
+Os dados pessoais são coletados pelo fornecimento voluntário de informações pelo usuário ao utilizar o sítio eletrônico e os
+aplicativos da ANP, pelo preenchimento de formulários eletrônicos disponibilizados pela ANP, pelo envio de documentos em
+sistemas da ANP, pelo recebimento de documentos físicos e digitalizados e por inspeções in loco. Além disso, alguns dados
+pessoais são coletados na base de dados de outros órgãos e de maneira automática ao utilizar o sítio eletrônico e os aplicativos
+da ANP.
+No caso do CSA e do SEI, as informações pessoais são providas pelos agentes econômicos e pelos consumidores e usuários
+de bens e serviços das indústrias de petróleo, de gás natural ou de biocombustíveis ao solicitar os serviços de combustíveis e
+de petróleo e derivados. Para dados pessoais armazenados em outros órgãos públicos, como a Receita Federal, existe uma
+integração do CSA com o objetivo de assegurar a qualidade e a atualização dos dados pessoais.
+3.5. QUAL O TRATAMENTO REALIZADO E PARA QUAL FINALIDADE
+O tratamento dos dados pessoais é limitado ao mínimo necessário para a realização das finalidades informadas ao titular. Em
+geral, o tratamento dos dados pessoais é necessário para o cumprimento de obrigação legal ou regulatória pelo controlador
+e para a execução de políticas públicas previstas em leis e regulamentos, sendo possível também o tratamento para exercício
+regular de direitos em processo judicial, administrativo ou arbitral.
+Além disso, alguns dados pessoais são tratados para identificar o usuário dentro do serviço, para autenticar e manter o usuário
+logado nos sistemas da ANP e para melhorar e personalizar a experiência do usuário.
+Para dados pessoais coletados de outros órgãos por meio automático, como a integração do CSA à Receita Federal, o objetivo
+é assegurar a qualidade e a atualização dos dados pessoais.
+O tratamento realizado com os dados pessoais abrange a coleta, a retenção, o processamento e o compartilhamento.
+Ressalta-se que o tratamento dos dados pessoais é realizado observando-se os princípios expostos no art. 6º da Lei nº 13.709,
+de 14 de agosto de 2018, buscando-se contemplar sua finalidade, através de propósitos legítimos e específicos, sem tratamento
+posterior de forma incompatível a sua finalidade.
+3.6. COMPARTILHAMENTO DE DADOS PESSOAIS
+O compartilhamento de dados com terceiros poderá ser realizado, desde que obtido o consentimento específico do titular
+das informações, ressalvadas as hipóteses de dispensa desse consentimento dispostas na LGPD. Nesse contexto, destaca-se a
+possibilidade de compartilhamento desses dados com os órgãos de controle, como Tribunal de Contas da União (TCU) e
+Controladoria-Geral da União (CGU), o Ministério da Economia e o Ministério de Minas e Energia.
+A ANP poderá compartilhar dados pessoais com agentes econômicos nas hipóteses previstas no § 1º do art. 26 da LGPD, em
+especial nos casos de execução descentralizada de atividade pública que exija a transferência, exclusivamente para esse fim
+específico e determinado.
+12"
+termo-uso-politica-privacidade-lgpd (2).pdf,13,"TERMO DE USO E POLÍTICA DE PRIVACIDADE DA ANP | SGE – ANP | 2021
+3.7. SEGURANÇA NO TRATAMENTO DOS DADOS PESSOAIS
+A ANP se compromete a aplicar as medidas técnicas e organizativas aptas a proteger os dados pessoais de acessos não
+autorizados e de situações de destruição, perda, alteração, comunicação ou difusão de tais dados.
+A ANP adota boas práticas e tecnologias de mercado que visam proteger os dados pessoais. O uso de mecanismos de
+proteção para redes e de softwares contra a disseminação de malwares são exemplos de ações que mitigam eventuais ataques
+ao ambiente computacional, onde são processados e armazenados os dados pessoais em formato digital na Agência.
+Soma-se a isso a proteção do ambiente por meio da utilização de controles de acesso lógico e físico, assim como o
+armazenamento de registros (logs), que podem ser usados para análise forense em caso de incidentes de segurança que
+envolvam dados pessoais.
+Além disso, o acesso aos dados pessoais é restrito a servidores e colaboradores previamente autorizados a executar as
+atividades no âmbito de suas unidades de lotação e exercício e de acordo com as competências regimentais. No caso do
+acesso físico às instalações onde se dá o armazenamento de informações, há um controle rígido de segurança.
+Para a garantia da segurança, são adotadas soluções que levam em consideração: as técnicas adequadas; os custos de
+aplicação; a natureza, o âmbito, o contexto e as finalidades do tratamento; e os riscos para os direitos e liberdades do usuário.
+Com o objetivo de assegurar que se realize o tratamento de dados pessoais conforme a Lei nº 13.709, de 14 de agosto de
+2018, e respeite os critérios estabelecidos pela instituição, todo servidor ou terceirizado deve seguir o Código de Conduta do
+Agente Público Civil do Poder Executivo Federal, bem como o Decreto nº 1.171, de 22 de junho de 1994, que trata do Código
+de Ética Profissional do Servidor Público Civil do Poder Executivo Federal, além da Política de Segurança da Informação e
+Comunicação da ANP - Posic.
+A ANP utiliza criptografia de forma a fornecer confidencialidade dos dados pessoais e informações que trafegam entre o titular
+e o provedor, para que os dados sejam transmitidos de forma segura e confidencial, de maneira que a transmissão dos dados
+entre o servidor e o usuário, e em retroalimentação, ocorra de maneira cifrada ou encriptada.
+A ANP se exime de responsabilidade por culpa exclusiva de terceiros, como em caso de ataque de hackers ou crackers, e culpa
+exclusiva do usuário, como no caso em que ele mesmo transfira seus dados a terceiro. A ANP se compromete, ainda, a
+comunicar ao usuário em prazo adequado caso ocorra algum tipo de violação da segurança de seus dados pessoais que
+possa lhe causar um alto risco para seus direitos e liberdades pessoais.
+A violação de dados pessoais é uma violação de segurança que provoque, de modo acidental ou ilícito, a destruição, a perda,
+a alteração, a divulgação ou o acesso não autorizado a dados pessoais transmitidos, conservados ou sujeitos a qualquer outro
+tipo de tratamento.
+Em conformidade ao art. 48 da Lei nº 13.709, de 2018, a ANP comunicará ao titular e à Autoridade Nacional de Proteção de
+Dados (ANPD) a ocorrência de incidente de segurança que possa acarretar risco ou dano relevante ao titular.
+Por fim, a ANP se compromete a tratar os dados pessoais do usuário com confidencialidade, dentro dos limites legais.
+3.8. COOKIES
+Cookies são pequenos arquivos de texto enviados pelo site ao computador ou dispositivo móvel do usuário e que nele ficam
+armazenados, com informações relacionadas à navegação no site.
+Por meio dos cookies, pequenas quantidades de informação são armazenadas pelo navegador do usuário para que nosso
+servidor possa lê-las posteriormente. Podem ser armazenados, por exemplo, dados sobre o dispositivo utilizado pelo usuário,
+bem como seu local e horário de acesso ao site.
+É importante ressaltar que nem todo cookie contém dados pessoais do usuário, já que determinados tipos de cookies podem
+ser utilizados somente para que o serviço funcione corretamente.
+As informações eventualmente armazenadas em cookies podem ser consideradas dados pessoais e todas as regras previstas
+nesta Política de Privacidade também são aplicáveis a eles.
+13"
+termo-uso-politica-privacidade-lgpd (2).pdf,14,"TERMO DE USO E POLÍTICA DE PRIVACIDADE DA ANP | SGE – ANP | 2021
+Os serviços de combustíveis e de petróleo e derivados utilizam cookies primários para reconhecer o usuário como um visitante
+anterior do site ou aplicativo, para controle de sessão do usuário e para guardar opções de uso do sistema selecionadas pelo
+usuário, como o modo de acessibilidade.
+Os serviços de combustíveis e de petróleo e derivados também utilizam cookies de terceiros. Podemos utilizar os cookies do
+serviço Google Analytics para entender os interesses e as necessidades dos usuários dos serviços e para armazenar as
+preferências dos visitantes durante a navegação.
+A ANP não coleta ou identifica individualmente essas informações, mas pode utilizá-las para fins de análise estatística, nunca
+individual, e sempre com o objetivo de entender melhor os interesses e necessidades dos usuários dos serviços e para
+armazenar as preferências dos visitantes durante a navegação.
+Para que os visitantes impeçam que os dados sejam utilizados pelo Google Analytics, há a possibilidade de se instalar um add-
+on no navegador.
+3.9. TRATAMENTO POSTERIOR PARA OUTRAS FINALIDADES
+A ANP pode coletar dados relativos aos dispositivos dos usuários, como modelo do hardware, sistema operacional (entre elas
+configuração, navegadores) e identificadores do dispositivo (localização, entre outros). Tais informações visam realizar a
+melhoria contínua e segurança dos processos e serviços prestados.
+A ANP poderá, a qualquer tempo, fornecer dados ou informações relativas aos usuários da Plataforma de Autenticação a
+outros serviços públicos digitais cuja finalidade seja a efetiva prestação de serviço público pelo compartilhamento de dados
+ou informações ou atender demanda judicial ou policial ou por requisição do Ministério Público, conforme a LGPD.
+A transparência será proporcionada nos termos da Lei nº 12.527, de 18 de novembro de 2011 (Lei de Acesso à Informação), e
+do Decreto nº 7.724, de 16 de maio de 2012.
+3.10. TRANSFERÊNCIA INTERNACIONAL DE DADOS
+A ANP pode compartilhar os seus dados pessoais globalmente para realizar as atividades especificadas no presente
+documento, podendo igualmente subcontratar o processamento, ou compartilhar os seus dados pessoais com terceiros
+localizados em outros países. Os seus dados pessoais podem, portanto, estar sujeitos a leis de privacidade distintas daquelas
+aplicáveis em seu país.
+Nesses casos, a ANP deve garantir que a transmissão dos seus dados pessoais seja realizada de acordo com as leis de
+privacidade aplicáveis e, em particular, que medidas contratuais, técnicas e organizacionais adequadas estejam em vigor.
+3.11. MUDANÇAS NA POLÍTICA DE PRIVACIDADE
+A presente versão desta Política de Privacidade foi atualizada pela última vez em 15/09/2021.
+A ANP se reserva o direito de modificar, a qualquer momento, as presentes normas, especialmente para adaptá-las às
+evoluções dos serviços de combustíveis e de petróleo e derivados, seja pela disponibilização de novas funcionalidades, seja
+pela supressão ou modificação daquelas já existentes.
+Qualquer alteração e/ou atualização deste Termo de Uso e Política de Privacidade passará a vigorar a partir da data de sua
+publicação no sítio eletrônico da ANP (www.gov.br/anp) e deverá ser integralmente observada pelos usuários.
+O usuário será explicitamente notificado em caso de alteração deste documento por meio do sítio eletrônico e dos sistemas
+da ANP.
+3.12. FORO
+Este Termo será regido pela legislação brasileira. Qualquer reclamação ou controvérsia com base neste Termo será dirimida
+exclusivamente pela Justiça Federal, na seção judiciária do Rio de Janeiro.
+Sem prejuízo de qualquer outra via de recurso administrativo ou judicial, todos os titulares de dados têm direito a apresentar
+reclamação à Autoridade Nacional de Proteção de Dados.
+14"
+termo-uso-politica-privacidade-lgpd (2).pdf,15,"TERMO DE USO E POLÍTICA DE PRIVACIDADE DA ANP | SGE – ANP | 2021
+15"
+termo-uso-politica-privacidade-lgpd (3).pdf,1,"TERMO DE USO E POLÍTICA DE PRIVACIDADE DA ANP | SGE – ANP | 2021
+TERMO DE USO
+E POLÍTICA DE
+PRIVACIDADE
+Superintendência de Governança e Estratégia
+1"
+termo-uso-politica-privacidade-lgpd (3).pdf,2,"TERMO DE USO E POLÍTICA DE PRIVACIDADE DA ANP | SGE – ANP | 2021
+TERMO DE USO
+E POLÍTICA DE
+PRIVACIDADE
+Superintendência de Governança e Estratégia
+2"
+termo-uso-politica-privacidade-lgpd (3).pdf,3,"TERMO DE USO E POLÍTICA DE PRIVACIDADE DA ANP | SGE – ANP | 2021
+Agência Nacional do Petróleo, Gás Natural e Biocombustíveis
+Setembro, 2021
+Diretor-Geral
+Rodolfo Henrique de Saboia
+Diretores
+Symone Christine de Santana Araújo
+José Cesário Cecchi
+Dirceu Cardoso Amorelli Junior
+Raphael Neves Moura (Diretor Substituto)
+Superintendência de Governança e Estratégia
+José Gutman – Superintendente de Governança e Estratégia
+Sergio Alonso Trigo – Superintendente Adjunto de Governança e Estratégia
+Elaboração
+Raphael Borges Rodrigues – Coordenador de Governança
+Andréa da Silva Fonseca – Assessora de Superintendência
+André Moreira Nascimento – Especialista em Regulação
+Aline Pereira dos Santos – Estagiária na Coordenação de Governança
+3"
+termo-uso-politica-privacidade-lgpd (3).pdf,4,"TERMO DE USO E POLÍTICA DE PRIVACIDADE DA ANP | SGE – ANP | 2021
+1. QUAIS INFORMAÇÕES ESTÃO PRESENTES NESTE DOCUMENTO
+Este documento trata do Termo de Uso e Política de Privacidade para os serviços de combustíveis e de petróleo e derivados
+prestados pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - ANP.
+No Termo de Uso, o usuário dos serviços de combustíveis e de petróleo e derivados encontrará informações sobre: o
+funcionamento dos serviços e as regras aplicáveis a eles; o arcabouço legal relacionado à prestação dos serviços; as
+responsabilidades do usuário ao utilizar os serviços; as responsabilidades da administração pública federal ao prover os
+serviços; informações para contato para dirimir dúvidas ou atualizar informações; e o foro responsável por eventuais
+reclamações caso questões deste Termo de Uso tenham sido violadas.
+Na Política de Privacidade, o usuário dos serviços de combustíveis e de petróleo e derivados encontrará informações sobre: o
+tratamento dos dados pessoais realizados, de forma automatizada ou não, e a sua finalidade; os dados pessoais dos usuários
+necessários para a prestação dos serviços; a forma como os dados são coletados; se há compartilhamento de dados com
+terceiros; e as medidas de segurança implementadas para proteger os dados pessoais.
+2. TERMO DE USO
+2.1. ACEITAÇÃO DO TERMO DE USO E POLÍTICA DE PRIVACIDADE
+Ao utilizar os serviços, o usuário confirma que leu e compreendeu o Termo de Uso e a Política de Privacidade aplicáveis aos
+serviços de combustíveis e de petróleo e derivados e concorda em ficar vinculado a eles.
+2.2. DEFINIÇÕES
+Para melhor compreensão deste documento, neste Termo de Uso e Política de Privacidade, consideram-se:
+Agentes de tratamento: o controlador e o operador.
+Agente público: todo aquele que exerce, ainda que transitoriamente ou sem remuneração, por eleição, nomeação, designação,
+contratação ou qualquer outra forma de investidura ou vínculo, mandato, cargo, emprego ou função nos órgãos e entidades
+da Administração Pública, direta e indireta.
+Autoridade Nacional de Proteção de Dados Pessoais - ANPD: órgão da administração pública responsável por zelar,
+implementar e fiscalizar o cumprimento da Lei Geral de Proteção de Dados Pessoais em todo o território nacional.
+Banco de dados: conjunto estruturado de dados pessoais, estabelecido em um ou em vários locais, em suporte eletrônico ou
+físico.
+Código malicioso: qualquer programa de computador, ou parte de um programa, construído com a intenção de provocar
+danos, obter informações não autorizadas ou interromper o funcionamento de sistemas e/ou redes de computadores.
+Consentimento: manifestação livre, informada e inequívoca pela qual o titular concorda com o tratamento de seus dados
+pessoais para uma finalidade determinada.
+Controlador: pessoa natural ou jurídica, de direito público ou privado, a quem competem as decisões referentes ao tratamento
+de dados pessoais.
+Dado pessoal: informação relacionada a pessoa natural identificada ou identificável.
+Dado pessoal sensível: dado pessoal sobre origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou
+a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico,
+quando vinculado a uma pessoa natural.
+Eliminação: exclusão de dado ou de conjunto de dados armazenados em banco de dados, independentemente do
+procedimento empregado.
+Encarregado: pessoa indicada pelo controlador e operador para atuar como canal de comunicação entre o controlador, os
+titulares dos dados e a Autoridade Nacional de Proteção de Dados (ANPD).
+4"
+termo-uso-politica-privacidade-lgpd (3).pdf,5,"TERMO DE USO E POLÍTICA DE PRIVACIDADE DA ANP | SGE – ANP | 2021
+Internet: o sistema constituído do conjunto de protocolos lógicos, estruturado em escala mundial para uso público e irrestrito,
+com a finalidade de possibilitar a comunicação de dados entre terminais por meio de diferentes redes, conforme a Lei nº
+12.965, de 23 de abril de 2014.
+Lei Geral de Proteção de Dados Pessoais - LGPD: Lei nº 13.709, de 14 de agosto de 2018, que dispõe sobre o tratamento de
+dados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público ou privado, com o
+objetivo de proteger os direitos fundamentais de liberdade e de privacidade e o livre desenvolvimento da personalidade da
+pessoa natural.
+Operador: pessoa natural ou jurídica, de direito público ou privado, que realiza o tratamento de dados pessoais em nome do
+controlador.
+Sítios e aplicativos: os sítios são um conjunto de páginas disponíveis na Internet, e os aplicativos são softwares que executam
+um grupo de funções com o objetivo de disponibilizar um serviço aos usuários.
+Terceiro: pessoa ou entidade que não participa diretamente em um contrato, em um ato jurídico ou em um negócio, ou que,
+para além das partes envolvidas, pode ter interesse em um processo jurídico.
+Titular: pessoa natural a quem se referem os dados pessoais que são objeto de tratamento.
+Tratamento: toda operação realizada com dados pessoais, como as que se referem a coleta, produção, recepção, classificação,
+utilização, acesso, reprodução, transmissão, distribuição, processamento, arquivamento, armazenamento, eliminação,
+avaliação ou controle da informação, modificação, comunicação, transferência, difusão ou extração.
+Uso compartilhado de dados: comunicação, difusão, transferência internacional, interconexão de dados pessoais ou
+tratamento compartilhado de bancos de dados pessoais por órgãos e entidades públicos no cumprimento de suas
+competências legais, ou entre esses e entes privados, reciprocamente, com autorização específica, para uma ou mais
+modalidades de tratamento permitidas por esses entes públicos, ou entre entes privados.
+Usuários (ou Usuário, quando individualmente considerado): todas as pessoas naturais que utilizarem os serviços de
+combustíveis e de petróleo e derivados, mesmo como representantes de pessoas jurídicas.
+Violação de dados pessoais: violação de segurança que provoque, de modo acidental ou ilícito, a destruição, a perda, a
+alteração, a divulgação ou o acesso não autorizado a dados pessoais transmitidos, conservados ou sujeitos a qualquer outro
+tipo de tratamento.
+2.3. ARCABOUÇO LEGAL
+O arcabouço legal aplicável aos serviços de combustíveis e de petróleo e derivados compreende:
+ Decreto nº 10.712, de 2 de junho de 2021: Regulamenta a Lei nº 14.134, de 8 de abril de 2021, que dispõe sobre as atividades
+relativas ao transporte de gás natural, de que trata o art. 177 da Constituição, e sobre as atividades de escoamento,
+tratamento, processamento, estocagem subterrânea, acondicionamento, liquefação, regaseificação e comercialização de
+gás natural.
+ Lei nº 14.134, de 8 de abril de 2021: Dispõe sobre as atividades relativas ao transporte de gás natural, de que trata o art.
+177 da Constituição Federal, e sobre as atividades de escoamento, tratamento, processamento, estocagem subterrânea,
+acondicionamento, liquefação, regaseificação e comercialização de gás natural; altera as Leis nºs 9.478, de 6 de agosto de
+1997, e 9.847, de 26 de outubro de 1999; e revoga a Lei nº 11.909, de 4 de março de 2009, e dispositivo da Lei nº 10.438,
+de 26 de abril de 2002.
+ Decreto nº 10.046, de 9 de outubro de 2019: Dispõe sobre a governança no compartilhamento de dados no âmbito da
+administração pública federal e institui o Cadastro Base do Cidadão e o Comitê Central de Governança de Dados.
+ Decreto nº 9.888, de 27 de junho de 2019: Dispõe sobre a definição das metas compulsórias anuais de redução de emissões
+de gases causadores do efeito estufa para a comercialização de combustíveis de que trata a Lei nº 13.576, de 26 de
+dezembro de 2017, e institui o Comitê da Política Nacional de Biocombustíveis - Comitê RenovaBio.
+ Lei nº 13.848, de 25 de junho de 2019: Dispõe sobre a gestão, a organização, o processo decisório e o controle social das
+agências reguladoras, altera a Lei nº 9.427, de 26 de dezembro de 1996, a Lei nº 9.472, de 16 de julho de 1997, a Lei nº
+5"
+termo-uso-politica-privacidade-lgpd (3).pdf,6,"TERMO DE USO E POLÍTICA DE PRIVACIDADE DA ANP | SGE – ANP | 2021
+9.478, de 6 de agosto de 1997, a Lei nº 9.782, de 26 de janeiro de 1999, a Lei nº 9.961, de 28 de janeiro de 2000, a Lei nº
+9.984, de 17 de julho de 2000, a Lei nº 9.986, de 18 de julho de 2000, a Lei nº 10.233, de 5 de junho de 2001, a Medida
+Provisória nº 2.228-1, de 6 de setembro de 2001, a Lei nº 11.182, de 27 de setembro de 2005, e a Lei nº 10.180, de 6 de
+fevereiro de 2001.
+ Decreto nº 9.637, de 26 de dezembro de 2018: Institui a Política Nacional de Segurança da Informação, dispõe sobre a
+governança da segurança da informação, e altera o Decreto nº 2.295, de 4 de agosto de 1997, que regulamenta o disposto
+no art. 24, caput, inciso IX, da Lei nº 8.666, de 21 de junho de 1993, e dispõe sobre a dispensa de licitação nos casos que
+possam comprometer a segurança nacional.
+ Lei nº 13.709, de 14 de agosto de 2018: Dispõe sobre o tratamento de dados pessoais, inclusive nos meios digitais, por
+pessoa natural ou por pessoa jurídica de direito público ou privado, com o objetivo de proteger os direitos fundamentais
+de liberdade e de privacidade e o livre desenvolvimento da personalidade da pessoa natural.
+ Lei nº 13.576, de 26 de dezembro de 2017: Dispõe sobre a Política Nacional de Biocombustíveis (RenovaBio) e dá outras
+providências.
+ Lei nº 13.460, de 26 de junho de 2017: Dispõe sobre participação, proteção e defesa dos direitos do usuário dos serviços
+públicos da administração pública.
+ Lei nº 13.444, de 11 de maio de 2017: Dispõe sobre a Identificação Civil Nacional (ICN).
+ Instrução Normativa nº 12, de 10 de maio de 2017: Política de Segurança da Informação e Comunicações da ANP.
+ Decreto nº 8.936, de 19 de dezembro de 2016: Institui a Plataforma de Cidadania Digital e dispõe sobre a oferta dos serviços
+públicos digitais, no âmbito dos órgãos e das entidades da administração pública federal direta, autárquica e fundacional.
+ Decreto nº 8.777, de 11 de maio de 2016: Institui a Política de Dados Abertos do Poder Executivo federal.
+ Lei nº 12.965, de 23 de abril de 2014: Marco Civil da Internet – Estabelece princípios, garantias, direitos e deveres para o
+uso da Internet no Brasil.
+ Lei nº 12.737, de 30 de novembro de 2012: Dispõe sobre a tipificação criminal de delitos informáticos; altera o Decreto-Lei
+nº 2.848, de 7 de dezembro de 1940 - Código Penal; e dá outras providências.
+ Decreto nº 7.845, de 14 de novembro de 2012: Regulamenta procedimentos para credenciamento de segurança e
+tratamento de informação classificada em qualquer grau de sigilo, e dispõe sobre o Núcleo de Segurança e
+Credenciamento.
+ Decreto nº 7.724, de 16 de maio de 2012: Regulamenta a Lei nº 12.527, de 18 de novembro de 2011 (Lei de Acesso à
+Informação), que dispõe sobre o acesso a informações previsto na Constituição.
+ Lei nº 12.527, de 18 de novembro de 2011: Lei de Acesso à Informação – Regula o acesso a informações previsto na
+Constituição Federal.
+ Lei nº 12.351, de 22 de dezembro de 2010: Dispõe sobre a exploração e a produção de petróleo, de gás natural e de outros
+hidrocarbonetos fluidos, sob o regime de partilha de produção, em áreas do pré-sal e em áreas estratégicas; cria o Fundo
+Social - FS e dispõe sobre sua estrutura e fontes de recursos; altera dispositivos da Lei nº 9.478, de 6 de agosto de 1997; e
+dá outras providências.
+ Lei nº 12.276, de 30 de junho de 2010: Autoriza a União a ceder onerosamente à Petróleo Brasileiro S.A. - PETROBRAS o
+exercício das atividades de pesquisa e lavra de petróleo, de gás natural e de outros hidrocarbonetos fluidos de que trata o
+inciso I do art. 177 da Constituição Federal, e dá outras providências.
+ Lei nº 9.847, de 26 de outubro de 1999: Dispõe sobre a fiscalização das atividades relativas ao abastecimento nacional de
+combustíveis, de que trata a Lei no 9.478, de 6 de agosto de 1997, estabelece sanções administrativas e dá outras
+providências.
+ Lei nº 9.784, de 29 de janeiro de 1999: Regula o processo administrativo no âmbito da Administração Pública Federal.
+6"
+termo-uso-politica-privacidade-lgpd (3).pdf,7,"TERMO DE USO E POLÍTICA DE PRIVACIDADE DA ANP | SGE – ANP | 2021
+ Decreto nº 2.953, de 28 de janeiro de 1999: Dispõe sobre o procedimento administrativo para aplicação de penalidades
+por infrações cometidas nas atividades relativas à indústria do petróleo e ao abastecimento nacional de combustíveis, e dá
+outras providências.
+ Decreto nº 2.705, de 3 de agosto de 1998: Define critérios para cálculo e cobrança das participações governamentais de
+que trata a Lei nº 9.478, de 6 de agosto de 1997, aplicáveis às atividades de exploração, desenvolvimento e produção de
+petróleo e gás natural, e dá outras providências.
+ Decreto nº 2.455, de 14 de janeiro de 1998: Implanta a Agência Nacional do Petróleo - ANP, autarquia sob regime especial,
+aprova sua Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e Funções de Confiança e dá outras
+providências.
+ Lei nº 9.478, de 6 de agosto de 1997: Dispõe sobre a política energética nacional, as atividades relativas ao monopólio do
+petróleo, institui o Conselho Nacional de Política Energética e a Agência Nacional do Petróleo e dá outras providências.
+ Normas complementares do Gabinete de Segurança da Informação da Presidência (GSI/PR): Disciplinam a Gestão de
+Segurança da Informação e Comunicações na Administração Pública Federal, direta e indireta, e dá outras providências.
+2.4. DESCRIÇÃO DOS SERVIÇOS
+A Agência Nacional do Petróleo, Gás Natural e Biocombustíveis – ANP, entidade integrante da Administração Federal Indireta,
+vinculada ao Ministério de Minas e Energia, tem como finalidade promover a regulação, a contratação e a fiscalização das
+atividades econômicas integrantes da indústria do petróleo, do gás natural e dos biocombustíveis, além das atividades
+relacionadas à distribuição e revenda de combustíveis.
+Nesse contexto, a ANP presta, em meio físico ou digital, aos agentes econômicos e aos consumidores e usuários de bens e
+serviços das indústrias de petróleo, de gás natural ou de biocombustíveis um amplo rol de serviços integrantes dos segmentos
+de combustíveis e de petróleo e derivados.
+No segmento de combustíveis, subdividido em armazenamento, compra, venda e uso, distribuição, formulação e produção,
+são prestados serviços de obtenção de autorizações, homologações, habilitações, cadastramentos, aprovações e transferências
+de titularidade.
+No segmento de petróleo e derivados, subdividido em exploração e produção, importação e exportação, processamento e
+comercialização de gás natural, produtos derivados, refino de petróleo, royalties, transporte e outros serviços, são prestados
+serviços de comunicações, declarações, solicitações, transferências de titularidade, aprovações, autorizações, credenciamentos,
+anuências, registros, homologações, cadastramentos, declarações de utilidade pública e acreditações.
+Os requisitos, documentos, etapas e prazos dos serviços estão disponíveis no sítio eletrônico da ANP, na Carta de Serviços ou
+no portal de serviços Gov.br para Combustíveis e Petróleo e Derivados.
+Os serviços digitais da ANP estão disponíveis nos seguintes meios:
+Central de Sistemas da ANP – CSA e Sistema Eletrônico de Informações – SEI: para obter acesso aos serviços digitais da ANP,
+o cadastro precisa ser realizado a partir do fornecimento dos dados pelo titular ou obtenção automática, por meio de
+integração com outros órgãos públicos.
+Os serviços fornecidos aqui estão relacionados às funções legais da ANP, de outorga, regulação e fiscalização. Por meio dos
+sistemas do CSA e do SEI, é possível ao titular solicitar autorizações de funcionamento, atualização da situação cadastral,
+fornecimento de dados e documentos relacionados à prestação de contas à ANP, manifestação de interesse na participação
+em rodadas de licitação de blocos e acompanhamento de processos administrativos em geral. Os dados fornecidos no
+cadastro pelo titular podem ser utilizados para a avaliação da qualidade e melhoria dos serviços digitais, em conformidade
+com o Decreto nº 8.936, de 19 de dezembro de 2016. A participação do titular na pesquisa de qualidade é opcional. Ao
+responder a pesquisa, o titular contribui para que os serviços fornecidos pela ANP possam ser analisados e melhorados.
+Aplicativos mobile da ANP: os aplicativos da ANP podem estar disponíveis para as plataformas iOS e Android, na galeria de
+aplicativos do governo federal. Dados pessoais como IP e geolocalização podem ser coletados para avaliação do uso do
+aplicativo. O aplicativo ANP E&P, por exemplo, possibilita consultas sobre exploração e produção de petróleo e gás natural no
+Brasil.
+7"
+termo-uso-politica-privacidade-lgpd (3).pdf,8,"TERMO DE USO E POLÍTICA DE PRIVACIDADE DA ANP | SGE – ANP | 2021
+Outros serviços disponibilizados pela ANP, não inteiramente digitais, incluem:
+Participação em eventos: os eventos podem ser nacionais ou internacionais, como consultas públicas, audiências públicas,
+fóruns, palestras, seminários, road shows ou outro evento que a ANP venha a promover ou participar. Os interessados em
+participar fornecem seus dados pelo formulário de inscrição ou por e-mail à ANP.
+2.5. DIREITOS DO USUÁRIO DOS SERVIÇOS
+O usuário dos serviços de combustíveis e de petróleo e derivados possui os seguintes direitos, conferidos pela Lei Geral de
+Proteção de Dados Pessoais:
+Direito de confirmação e acesso (art. 18, I e II): é o direito do usuário de obter do serviço a confirmação de que os dados
+pessoais que lhe digam respeito são ou não objeto de tratamento e, se for esse o caso, o direito de acessar os seus dados
+pessoais.
+Direito de retificação (art. 18, III): é o direito de solicitar a correção de dados incompletos, inexatos ou desatualizados.
+Direito à limitação do tratamento dos dados (art. 18, IV): é o direito do usuário de limitar o tratamento de seus dados pessoais,
+podendo exigir a eliminação de dados desnecessários, excessivos ou tratados em desconformidade com o disposto na Lei
+Geral de Proteção de Dados.
+Direito de oposição (art. 18, § 2º): é o direito do usuário de, a qualquer momento, se opor ao tratamento de dados por motivos
+relacionados com a sua situação particular, com fundamento em uma das hipóteses de dispensa de consentimento ou em
+caso de descumprimento ao disposto na Lei Geral de Proteção de Dados Pessoais.
+Direito de portabilidade dos dados (art. 18, V): é o direito do usuário de realizar a portabilidade dos dados a outro fornecedor
+de serviço ou produto, mediante requisição expressa, de acordo com a regulamentação da autoridade nacional, observados
+os segredos comercial e industrial.
+Direito de não ser submetido a decisões automatizadas (art. 20, LGPD): o titular dos dados tem direito a solicitar a revisão de
+decisões tomadas unicamente com base em tratamento automatizado de dados pessoais que afetem seus interesses, incluídas
+as decisões destinadas a definir o seu perfil pessoal, profissional, de consumo e de crédito ou os aspectos de sua personalidade.
+2.6. RESPONSABILIDADES DO USUÁRIO E DA ANP
+Responsabilidades do Usuário
+O usuário se responsabiliza pela precisão e pela veracidade dos dados informados no cadastro e reconhece que a
+inconsistência destes poderá implicar a impossibilidade de utilizar os serviços de combustíveis e de petróleo e derivados
+prestados pela ANP.
+Durante a utilização do serviço, a fim de resguardar e de proteger os direitos de terceiros, o usuário se compromete a fornecer
+somente seus dados pessoais, e não os de terceiros.
+O login e senha só poderão ser utilizados pelo usuário cadastrado. Este se compromete em manter o sigilo da senha, que é
+pessoal e intransferível, não sendo possível, em qualquer hipótese, a alegação de uso indevido, após o ato de
+compartilhamento.
+O usuário dos serviços é responsável pela atualização das suas informações pessoais e pelas consequências na omissão ou
+erros nas informações pessoais cadastradas.
+O usuário é responsável pela reparação de todo e qualquer danos, diretos ou indiretos (inclusive decorrentes de violação de
+quaisquer direitos de outros usuários, de terceiros, abrangendo direitos de propriedade intelectual, de sigilo e de
+personalidade), que sejam causados à ANP, a qualquer outro usuário, ou, ainda, a terceiros, inclusive em virtude do
+descumprimento do disposto neste Termo de Uso e Política de Privacidade ou de qualquer ato praticado a partir de seu acesso
+aos serviços, ao sítio eletrônico da ANP e aos sistemas e aplicativos da ANP.
+O usuário não deve interferir, comprometer ou interromper o serviço, tampouco os servidores ou as redes conectadas ao
+serviço, por meio da transmissão de qualquer malware, worm, vírus, spyware ou qualquer outro código de natureza destrutiva
+8"
+termo-uso-politica-privacidade-lgpd (3).pdf,9,"TERMO DE USO E POLÍTICA DE PRIVACIDADE DA ANP | SGE – ANP | 2021
+ou perturbadora. O usuário não pode inserir conteúdo ou códigos ou, de outra forma, alterar ou interferir na maneira como
+a página do serviço é exibida ou processada no dispositivo do usuário.
+A ANP não poderá ser responsabilizada pelos seguintes fatos:
+ Equipamento infectado ou invadido por atacantes;
+ Equipamento avariado no momento do consumo de serviços;
+ Proteção do dispositivo de acesso do usuário ao serviço;
+ Proteção das informações baseadas nos dispositivos de acesso dos usuários;
+ Abuso de uso dos dispositivos de acesso dos usuários;
+ Monitoração clandestina do dispositivo de acesso dos usuários;
+ Vulnerabilidades ou instabilidades existentes nos sistemas dos usuários;
+ Perímetro inseguro.
+O uso comercial das expressões utilizadas em sistemas e aplicativos da ANP, como marca, nome empresarial ou nome de
+domínio, além dos conteúdos do serviço, assim como os programas, bancos de dados, redes e arquivos que permitem que o
+usuário acesse sua conta, estão protegidos pelas leis e tratados internacionais de direito autoral, marcas, patentes, modelos e
+desenhos industriais.
+Ao acessar os sistemas e aplicativos da ANP, os usuários declaram que irão respeitar todos os direitos de propriedade
+intelectual e os decorrentes da proteção de marcas, patentes e/ou desenhos industriais, depositados ou registrados, bem
+como todos os direitos referentes a terceiros que porventura estejam, ou estiverem de alguma forma, disponíveis nos serviços.
+O simples acesso aos serviços não confere aos usuários qualquer direito ao uso dos nomes, títulos, palavras, frases, marcas,
+patentes, imagens, dados e informações, dentre outras, que nele estejam ou estiverem disponíveis.
+A reprodução dos conteúdos descritos anteriormente está proibida, salvo com prévia autorização por escrito ou caso se
+destinem ao uso exclusivamente pessoal e sem que, em nenhuma circunstância, os usuários adquiram qualquer direito sobre
+esses conteúdos.
+É vedada a utilização dos serviços para finalidades comerciais, publicitárias ou qualquer outra que contrarie a finalidade para
+a qual foi concebido, conforme definido neste documento, sob pena de sujeição às sanções cabíveis na Lei nº 9.610, de 19 de
+fevereiro de 1998, que protege os direitos autorais no Brasil.
+Os visitantes e os usuários assumem toda e qualquer responsabilidade, de caráter civil e/ou criminal, pela utilização indevida
+das informações, textos, gráficos, marcas, imagens, enfim, todo e qualquer direito de propriedade intelectual ou industrial do
+serviço.
+Em nenhuma hipótese, a ANP será responsável pela instalação no equipamento do usuário ou de terceiros, de códigos
+maliciosos (vírus, trojans, malware, worm, bot, backdoor, spyware, rootkit, ou de quaisquer outros que venham a ser criados),
+em decorrência da navegação na internet pelo usuário.
+Responsabilidades da ANP
+A ANP, no papel de custodiante das informações pessoais dos usuários, deve cumprir toda a legislação inerente ao uso correto
+dos dados pessoais do cidadão, de forma a preservar a privacidade dos dados utilizados nos seus serviços.
+Em nenhuma hipótese, a ANP será responsável pela instalação no equipamento do usuário ou de terceiros, de códigos
+maliciosos (vírus, trojans, malware, worm, bot, backdoor, spyware, rootkit ou quaisquer outros que venham a ser criados), em
+decorrência da navegação na internet pelo usuário.
+Em hipótese alguma, o serviço e seus colaboradores responsabilizam-se por eventuais danos diretos, indiretos, emergentes,
+especiais, imprevistos ou multas causadas, em qualquer matéria de responsabilidade, seja contratual, objetiva ou civil (inclusive
+negligência ou outras), decorrentes de qualquer forma de uso do serviço, mesmo que advertida a possibilidade de tais danos.
+Tendo em vista que o serviço lida com informações pessoais, o usuário concorda que não usará robôs, sistemas de varredura
+e armazenamento de dados (como spiders ou scrapers), links escondidos ou qualquer outro recurso escuso, ferramenta,
+9"
+termo-uso-politica-privacidade-lgpd (3).pdf,10,"TERMO DE USO E POLÍTICA DE PRIVACIDADE DA ANP | SGE – ANP | 2021
+programa, algoritmo ou método coletor/extrator de dados automático para acessar, adquirir, copiar ou monitorar o serviço,
+sem permissão expressa por escrito do órgão.
+Quanto aos aplicativos da ANP para dispositivos móveis, sua comercialização é expressamente proibida. Ao concordar com
+este Termo de Uso e utilizar o aplicativo móvel, o usuário receberá uma permissão do órgão para uso não comercial dos
+serviços oferecidos pelo aplicativo, o que, em nenhuma hipótese, fará dele proprietário do aplicativo móvel.
+Caso o usuário descumpra o Termo de Uso ou a Política de Privacidade, ou seja, investigado em razão de má conduta, a ANP
+poderá restringir seu acesso. O usuário também deverá responder legalmente por essa conduta.
+A ANP poderá, quanto às ordens judiciais de pedido de informações, compartilhar informações necessárias para investigações
+ou tomar medidas relacionadas a atividades ilegais, suspeitas de fraude ou ameaças potenciais contra pessoas, bens ou
+sistemas que sustentam o serviço ou de outra forma necessária para cumprir com as obrigações legais. Caso ocorra, a ANP
+notificará os titulares dos dados, salvo quando o processo estiver em segredo de justiça.
+A ANP se compromete a preservar a funcionalidade do serviço ou aplicativo, utilizando um layout que respeite a usabilidade
+e navegabilidade, facilitando a navegação sempre que possível, e a exibir as funcionalidades de maneira completa, precisa e
+suficiente, de modo que as operações realizadas no serviço sejam claras.
+2.7. INFORMAÇÕES PARA CONTATO
+Com fundamento nos arts. 18 e 20 da Lei Geral de Proteção de Dados Pessoais – LGPD, a ANP disponibiliza canal para
+recebimento de petições e reclamações do titular de dados pessoais, por meio do portal Fala.BR ou do e-mail:
+encarregado@anp.gov.br.
+Segundo o art. 5º, inciso VII, da LGPD, o encarregado é a pessoa indicada para atuar como canal de comunicação entre o
+controlador, os titulares dos dados, e a Autoridade Nacional de Proteção de Dados (ANPD).
+Dados do Encarregado pelo Tratamento de Dados Pessoais (Data Protection Officer)
+Nome: Claudio Eduardo Lobato de Abreu Rocha.
+Localização: Escritório Central. Av. Rio Branco, 65 / 12º ao 22º andar, Centro – CEP 20090-003 – Rio de Janeiro/RJ
+Para exercer seus direitos, entre em contato por meio do sítio Fala.BR ou ligue para a Central de Atendimento ao Consumidor,
+no telefone 0800 970 0267, de segunda a sexta-feira, das 8h às 20h.
+3. POLÍTICA DE PRIVACIDADE
+Esta Política de Privacidade foi elaborada em conformidade com a Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet),
+e com a Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais).
+Esta Política de Privacidade poderá ser atualizada em decorrência de eventual atualização normativa, razão pela qual se
+convida o usuário a consultar periodicamente esta seção. Ela tem o objetivo de esclarecer, de forma simples, transparente e
+objetiva, como se dá o tratamento das informações pessoais coletadas pelos serviços pela ANP.
+A ANP se compromete a cumprir as normas previstas na Lei Geral de Proteção de Dados Pessoais (LGPD) e a respeitar os
+princípios dispostos no art. 6º:
+I - finalidade: realização do tratamento para propósitos legítimos, específicos, explícitos e informados ao titular, sem
+possibilidade de tratamento posterior de forma incompatível com essas finalidades;
+II - adequação: compatibilidade do tratamento com as finalidades informadas ao titular, de acordo com o contexto do
+tratamento;
+III - necessidade: limitação do tratamento ao mínimo necessário para a realização de suas finalidades, com abrangência dos
+dados pertinentes, proporcionais e não excessivos em relação às finalidades do tratamento de dados;
+IV - livre acesso: garantia, aos titulares, de consulta facilitada e gratuita sobre a forma e a duração do tratamento, bem como
+sobre a integralidade de seus dados pessoais;
+10"
+termo-uso-politica-privacidade-lgpd (3).pdf,11,"TERMO DE USO E POLÍTICA DE PRIVACIDADE DA ANP | SGE – ANP | 2021
+V - qualidade dos dados: garantia, aos titulares, de exatidão, clareza, relevância e atualização dos dados, de acordo com a
+necessidade e para o cumprimento da finalidade de seu tratamento;
+VI - transparência: garantia, aos titulares, de informações claras, precisas e facilmente acessíveis sobre a realização do
+tratamento e os respectivos agentes de tratamento, observados os segredos comercial e industrial;
+VII - segurança: utilização de medidas técnicas e administrativas aptas a proteger os dados pessoais de acessos não autorizados
+e de situações acidentais ou ilícitas de destruição, perda, alteração, comunicação ou difusão;
+VIII - prevenção: adoção de medidas para prevenir a ocorrência de danos em virtude do tratamento de dados pessoais;
+IX - não discriminação: impossibilidade de realização do tratamento para fins discriminatórios ilícitos ou abusivos;
+X - responsabilização e prestação de contas: demonstração, pelo agente, da adoção de medidas eficazes e capazes de
+comprovar a observância e o cumprimento das normas de proteção de dados pessoais e, inclusive, da eficácia dessas medidas.
+3.1. AGENTES DE TRATAMENTO
+Controlador
+Para os serviços de combustíveis e de petróleo e derivados, as decisões referentes ao tratamento de dados pessoais são de
+responsabilidade da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis – ANP, que atua como controlador.
+Agência Nacional do Petróleo, Gás Natural e Biocombustíveis – ANP
+CNPJ 02.313.673/0002-08
+Escritório Central: Av. Rio Branco, 65 / 12º ao 22º andar, Centro – CEP 20090-003 – Rio de Janeiro/RJ
+Telefone: 0800 970 0267 – Fale Conosco
+Operador
+Para os serviços de combustíveis e de petróleo e derivados, o controlador também atua como operador, ou seja, além de ser
+responsável pelas decisões referentes ao tratamento de dados pessoais, também realiza o tratamento de dados pessoais.
+3.2. ENCARREGADO
+Para os serviços de combustíveis e de petróleo e derivados, quem é responsável por atuar como canal de comunicação entre
+o controlador, os titulares dos dados e a Autoridade Nacional de Proteção de Dados é o encarregado.
+Dados do Encarregado pelo Tratamento de Dados Pessoais (Data Protection Officer)
+Nome: Claudio Eduardo Lobato de Abreu Rocha.
+Contato para orientações e esclarecimentos: encarregado@anp.gov.br.
+3.3. QUAIS DADOS PESSOAIS SÃO TRATADOS
+A utilização, pelo usuário, de determinadas funcionalidades dos serviços dependerá do tratamento dos seguintes dados
+pessoais:
+Dados de identificação pessoal, que podem incluir, mas não limitados a: nome civil, filiação, endereço residencial, número de
+telefone fixo e/ou celular, endereço de correio eletrônico (e-mail), Cadastro de Pessoa Física (CPF), Carteira de Identidade (RG),
+Carteira do Conselho de Classe (OAB, CREA, Corecon etc), Carteira de Trabalho e Previdência Social (CTPS), Registro Nacional
+de Estrangeiro (RNE), Carteira de Registro Nacional Migratório (CRNM) ou passaporte, em caso de estrangeiros;
+Dados financeiros, que podem incluir, mas não limitados a: participação em outras empresas e/ou grupo econômico (sócio,
+cotas patrimoniais, ou representante), atividade profissional, acordos e ajustes comerciais, procurações de outorga por parte
+do agente econômico, folha de pagamento, benefícios e bonificações;
+Dados de educação e profissionais, que podem incluir, mas não limitados a: dados acadêmicos, qualificação e experiência
+profissional, certificações profissionais, emprego atual e carreira, visto e autorização de trabalho, em caso de estrangeiros;
+11"
+termo-uso-politica-privacidade-lgpd (3).pdf,12,"TERMO DE USO E POLÍTICA DE PRIVACIDADE DA ANP | SGE – ANP | 2021
+Características pessoais: que podem incluir, mas não limitados a: data do nascimento, naturalidade, nacionalidade, gênero,
+estado civil;
+Dados de localização, que podem incluir, mas não limitados a: IP (Internet Protocol), geolocalização (latitude e longitude);
+A ANP não coleta dados pessoais sensíveis dos seus agentes ou proponentes.
+3.4. COMO OS DADOS SÃO COLETADOS
+A coleta dos dados pessoais está circunscrita ao mínimo de dados necessários para o cumprimento de obrigação legal ou
+regulatória, para a execução de políticas públicas e para o exercício de direitos em processo judicial, administrativo ou arbitral.
+Os dados pessoais são coletados pelo fornecimento voluntário de informações pelo usuário ao utilizar o sítio eletrônico e os
+aplicativos da ANP, pelo preenchimento de formulários eletrônicos disponibilizados pela ANP, pelo envio de documentos em
+sistemas da ANP, pelo recebimento de documentos físicos e digitalizados e por inspeções in loco. Além disso, alguns dados
+pessoais são coletados na base de dados de outros órgãos e de maneira automática ao utilizar o sítio eletrônico e os aplicativos
+da ANP.
+No caso do CSA e do SEI, as informações pessoais são providas pelos agentes econômicos e pelos consumidores e usuários
+de bens e serviços das indústrias de petróleo, de gás natural ou de biocombustíveis ao solicitar os serviços de combustíveis e
+de petróleo e derivados. Para dados pessoais armazenados em outros órgãos públicos, como a Receita Federal, existe uma
+integração do CSA com o objetivo de assegurar a qualidade e a atualização dos dados pessoais.
+3.5. QUAL O TRATAMENTO REALIZADO E PARA QUAL FINALIDADE
+O tratamento dos dados pessoais é limitado ao mínimo necessário para a realização das finalidades informadas ao titular. Em
+geral, o tratamento dos dados pessoais é necessário para o cumprimento de obrigação legal ou regulatória pelo controlador
+e para a execução de políticas públicas previstas em leis e regulamentos, sendo possível também o tratamento para exercício
+regular de direitos em processo judicial, administrativo ou arbitral.
+Além disso, alguns dados pessoais são tratados para identificar o usuário dentro do serviço, para autenticar e manter o usuário
+logado nos sistemas da ANP e para melhorar e personalizar a experiência do usuário.
+Para dados pessoais coletados de outros órgãos por meio automático, como a integração do CSA à Receita Federal, o objetivo
+é assegurar a qualidade e a atualização dos dados pessoais.
+O tratamento realizado com os dados pessoais abrange a coleta, a retenção, o processamento e o compartilhamento.
+Ressalta-se que o tratamento dos dados pessoais é realizado observando-se os princípios expostos no art. 6º da Lei nº 13.709,
+de 14 de agosto de 2018, buscando-se contemplar sua finalidade, através de propósitos legítimos e específicos, sem tratamento
+posterior de forma incompatível a sua finalidade.
+3.6. COMPARTILHAMENTO DE DADOS PESSOAIS
+O compartilhamento de dados com terceiros poderá ser realizado, desde que obtido o consentimento específico do titular
+das informações, ressalvadas as hipóteses de dispensa desse consentimento dispostas na LGPD. Nesse contexto, destaca-se a
+possibilidade de compartilhamento desses dados com os órgãos de controle, como Tribunal de Contas da União (TCU) e
+Controladoria-Geral da União (CGU), o Ministério da Economia e o Ministério de Minas e Energia.
+A ANP poderá compartilhar dados pessoais com agentes econômicos nas hipóteses previstas no § 1º do art. 26 da LGPD, em
+especial nos casos de execução descentralizada de atividade pública que exija a transferência, exclusivamente para esse fim
+específico e determinado.
+12"
+termo-uso-politica-privacidade-lgpd (3).pdf,13,"TERMO DE USO E POLÍTICA DE PRIVACIDADE DA ANP | SGE – ANP | 2021
+3.7. SEGURANÇA NO TRATAMENTO DOS DADOS PESSOAIS
+A ANP se compromete a aplicar as medidas técnicas e organizativas aptas a proteger os dados pessoais de acessos não
+autorizados e de situações de destruição, perda, alteração, comunicação ou difusão de tais dados.
+A ANP adota boas práticas e tecnologias de mercado que visam proteger os dados pessoais. O uso de mecanismos de
+proteção para redes e de softwares contra a disseminação de malwares são exemplos de ações que mitigam eventuais ataques
+ao ambiente computacional, onde são processados e armazenados os dados pessoais em formato digital na Agência.
+Soma-se a isso a proteção do ambiente por meio da utilização de controles de acesso lógico e físico, assim como o
+armazenamento de registros (logs), que podem ser usados para análise forense em caso de incidentes de segurança que
+envolvam dados pessoais.
+Além disso, o acesso aos dados pessoais é restrito a servidores e colaboradores previamente autorizados a executar as
+atividades no âmbito de suas unidades de lotação e exercício e de acordo com as competências regimentais. No caso do
+acesso físico às instalações onde se dá o armazenamento de informações, há um controle rígido de segurança.
+Para a garantia da segurança, são adotadas soluções que levam em consideração: as técnicas adequadas; os custos de
+aplicação; a natureza, o âmbito, o contexto e as finalidades do tratamento; e os riscos para os direitos e liberdades do usuário.
+Com o objetivo de assegurar que se realize o tratamento de dados pessoais conforme a Lei nº 13.709, de 14 de agosto de
+2018, e respeite os critérios estabelecidos pela instituição, todo servidor ou terceirizado deve seguir o Código de Conduta do
+Agente Público Civil do Poder Executivo Federal, bem como o Decreto nº 1.171, de 22 de junho de 1994, que trata do Código
+de Ética Profissional do Servidor Público Civil do Poder Executivo Federal, além da Política de Segurança da Informação e
+Comunicação da ANP - Posic.
+A ANP utiliza criptografia de forma a fornecer confidencialidade dos dados pessoais e informações que trafegam entre o titular
+e o provedor, para que os dados sejam transmitidos de forma segura e confidencial, de maneira que a transmissão dos dados
+entre o servidor e o usuário, e em retroalimentação, ocorra de maneira cifrada ou encriptada.
+A ANP se exime de responsabilidade por culpa exclusiva de terceiros, como em caso de ataque de hackers ou crackers, e culpa
+exclusiva do usuário, como no caso em que ele mesmo transfira seus dados a terceiro. A ANP se compromete, ainda, a
+comunicar ao usuário em prazo adequado caso ocorra algum tipo de violação da segurança de seus dados pessoais que
+possa lhe causar um alto risco para seus direitos e liberdades pessoais.
+A violação de dados pessoais é uma violação de segurança que provoque, de modo acidental ou ilícito, a destruição, a perda,
+a alteração, a divulgação ou o acesso não autorizado a dados pessoais transmitidos, conservados ou sujeitos a qualquer outro
+tipo de tratamento.
+Em conformidade ao art. 48 da Lei nº 13.709, de 2018, a ANP comunicará ao titular e à Autoridade Nacional de Proteção de
+Dados (ANPD) a ocorrência de incidente de segurança que possa acarretar risco ou dano relevante ao titular.
+Por fim, a ANP se compromete a tratar os dados pessoais do usuário com confidencialidade, dentro dos limites legais.
+3.8. COOKIES
+Cookies são pequenos arquivos de texto enviados pelo site ao computador ou dispositivo móvel do usuário e que nele ficam
+armazenados, com informações relacionadas à navegação no site.
+Por meio dos cookies, pequenas quantidades de informação são armazenadas pelo navegador do usuário para que nosso
+servidor possa lê-las posteriormente. Podem ser armazenados, por exemplo, dados sobre o dispositivo utilizado pelo usuário,
+bem como seu local e horário de acesso ao site.
+É importante ressaltar que nem todo cookie contém dados pessoais do usuário, já que determinados tipos de cookies podem
+ser utilizados somente para que o serviço funcione corretamente.
+As informações eventualmente armazenadas em cookies podem ser consideradas dados pessoais e todas as regras previstas
+nesta Política de Privacidade também são aplicáveis a eles.
+13"
+termo-uso-politica-privacidade-lgpd (3).pdf,14,"TERMO DE USO E POLÍTICA DE PRIVACIDADE DA ANP | SGE – ANP | 2021
+Os serviços de combustíveis e de petróleo e derivados utilizam cookies primários para reconhecer o usuário como um visitante
+anterior do site ou aplicativo, para controle de sessão do usuário e para guardar opções de uso do sistema selecionadas pelo
+usuário, como o modo de acessibilidade.
+Os serviços de combustíveis e de petróleo e derivados também utilizam cookies de terceiros. Podemos utilizar os cookies do
+serviço Google Analytics para entender os interesses e as necessidades dos usuários dos serviços e para armazenar as
+preferências dos visitantes durante a navegação.
+A ANP não coleta ou identifica individualmente essas informações, mas pode utilizá-las para fins de análise estatística, nunca
+individual, e sempre com o objetivo de entender melhor os interesses e necessidades dos usuários dos serviços e para
+armazenar as preferências dos visitantes durante a navegação.
+Para que os visitantes impeçam que os dados sejam utilizados pelo Google Analytics, há a possibilidade de se instalar um add-
+on no navegador.
+3.9. TRATAMENTO POSTERIOR PARA OUTRAS FINALIDADES
+A ANP pode coletar dados relativos aos dispositivos dos usuários, como modelo do hardware, sistema operacional (entre elas
+configuração, navegadores) e identificadores do dispositivo (localização, entre outros). Tais informações visam realizar a
+melhoria contínua e segurança dos processos e serviços prestados.
+A ANP poderá, a qualquer tempo, fornecer dados ou informações relativas aos usuários da Plataforma de Autenticação a
+outros serviços públicos digitais cuja finalidade seja a efetiva prestação de serviço público pelo compartilhamento de dados
+ou informações ou atender demanda judicial ou policial ou por requisição do Ministério Público, conforme a LGPD.
+A transparência será proporcionada nos termos da Lei nº 12.527, de 18 de novembro de 2011 (Lei de Acesso à Informação), e
+do Decreto nº 7.724, de 16 de maio de 2012.
+3.10. TRANSFERÊNCIA INTERNACIONAL DE DADOS
+A ANP pode compartilhar os seus dados pessoais globalmente para realizar as atividades especificadas no presente
+documento, podendo igualmente subcontratar o processamento, ou compartilhar os seus dados pessoais com terceiros
+localizados em outros países. Os seus dados pessoais podem, portanto, estar sujeitos a leis de privacidade distintas daquelas
+aplicáveis em seu país.
+Nesses casos, a ANP deve garantir que a transmissão dos seus dados pessoais seja realizada de acordo com as leis de
+privacidade aplicáveis e, em particular, que medidas contratuais, técnicas e organizacionais adequadas estejam em vigor.
+3.11. MUDANÇAS NA POLÍTICA DE PRIVACIDADE
+A presente versão desta Política de Privacidade foi atualizada pela última vez em 15/09/2021.
+A ANP se reserva o direito de modificar, a qualquer momento, as presentes normas, especialmente para adaptá-las às
+evoluções dos serviços de combustíveis e de petróleo e derivados, seja pela disponibilização de novas funcionalidades, seja
+pela supressão ou modificação daquelas já existentes.
+Qualquer alteração e/ou atualização deste Termo de Uso e Política de Privacidade passará a vigorar a partir da data de sua
+publicação no sítio eletrônico da ANP (www.gov.br/anp) e deverá ser integralmente observada pelos usuários.
+O usuário será explicitamente notificado em caso de alteração deste documento por meio do sítio eletrônico e dos sistemas
+da ANP.
+3.12. FORO
+Este Termo será regido pela legislação brasileira. Qualquer reclamação ou controvérsia com base neste Termo será dirimida
+exclusivamente pela Justiça Federal, na seção judiciária do Rio de Janeiro.
+Sem prejuízo de qualquer outra via de recurso administrativo ou judicial, todos os titulares de dados têm direito a apresentar
+reclamação à Autoridade Nacional de Proteção de Dados.
+14"
+termo-uso-politica-privacidade-lgpd (3).pdf,15,"TERMO DE USO E POLÍTICA DE PRIVACIDADE DA ANP | SGE – ANP | 2021
 15"
 termo-uso-politica-privacidade-lgpd.pdf,1,"TERMO DE USO E POLÍTICA DE PRIVACIDADE DA ANP | SGE – ANP | 2021
 TERMO DE USO

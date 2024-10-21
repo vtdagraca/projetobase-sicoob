@@ -3,3 +3,5 @@ pandas #organiza os dados extraidos em um DataFrame e salva como CSV
 pdfplumber #extrai o texto de cada pagina dos PDFs baixados
 pytesseract #faz a leitura de texto em imagens
 pillow #converte imagens para serem processadas pelo pytesseract
+requests 
+langchain-groq
